@@ -1,0 +1,208 @@
+﻿Conceito 1;Conceito 2;Categoria proposta;Situação;Fonte
+Abordagens de Modelagem;Produtos da Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Agentes;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Agentes;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Agentes;Fluxo Informacional;;Categoria não disponível no XML;Exportação Thesa
+Agentes;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Agregação de Recursos;Dados;;Categoria não disponível no XML;Exportação Thesa
+Ambiente Web;Infraestrutura de Rede;;Categoria não disponível no XML;Exportação Thesa
+Ambiente Web;Serviços de Computação em Nuvem;;Categoria não disponível no XML;Exportação Thesa
+Ambientes e Infraestrutura Computacional;Agentes;;Categoria não disponível no XML;Exportação Thesa
+Ambientes e Infraestrutura Computacional;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Ambientes e Infraestrutura Computacional;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Ambientes e Infraestrutura Computacional;Fluxo Informacional;;Categoria não disponível no XML;Exportação Thesa
+Ambientes e Infraestrutura Computacional;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Ambiguidade;Polissemia;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Análise de Assunto;Assunto;;Categoria não disponível no XML;Exportação Thesa
+Análise de Assunto;Tradução;;Categoria não disponível no XML;Exportação Thesa
+Armazenamento da informação;Armazenamento em Nuvem;;Categoria não disponível no XML;Exportação Thesa
+Armazenamento da informação;Computador;;Categoria não disponível no XML;Exportação Thesa
+Armazenamento da informação;Dispositivo Móvel;;Categoria não disponível no XML;Exportação Thesa
+Armazenamento da informação;Estruturação Semântica;;Categoria não disponível no XML;Exportação Thesa
+Armazenamento da informação;Recuperação da Informação;;Categoria não disponível no XML;Exportação Thesa
+Artefatos de Organização, Representação e Recuperação;Fundamentos Teóricos;;Categoria não disponível no XML;Exportação Thesa
+Aspectos Linguístico-semânticos;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Aspectos Linguístico-semânticos;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Assunto Básico;Isolado;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Assunto Composto;Assunto Simples;Oposição/antonímia;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Atributo;Axioma;;Categoria não disponível no XML;Exportação Thesa
+Atributo;Classe;;Categoria não disponível no XML;Exportação Thesa
+Atributo;Instância;;Categoria não disponível no XML;Exportação Thesa
+Axioma;Classe;;Categoria não disponível no XML;Exportação Thesa
+Axioma;Instância;;Categoria não disponível no XML;Exportação Thesa
+Busca;Saída;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Catalogação;Classificação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Catalogação;Código de Catalogação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Catalogação;Indexação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Catalogação;Item Bibliográfico;Ação/paciente ou objetivo;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Catalogação;Recurso Informacional;Ação/paciente ou objetivo;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Classe;Instância;;Categoria não disponível no XML;Exportação Thesa
+Classificação;Indexação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Classificação;Ordenação;;Categoria não disponível no XML;Exportação Thesa
+Classificação;Recurso Informacional;Ação/paciente ou objetivo;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Classificação;Sistema de Classificação Bibliográfica;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Compreensão do Conteúdo;Identificação de Conceitos;;Categoria não disponível no XML;Exportação Thesa
+Compreensão do Conteúdo;Seleção de Conceitos;;Categoria não disponível no XML;Exportação Thesa
+Computador;Algoritmo;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Computador;Dispositivo Móvel;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Comunidade de Usuários;Busca;Ação/paciente ou objetivo;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Dados de Representação;Dados segundo Estruturação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Dispositivos Computacionais;Ambiente Web;;Categoria não disponível no XML;Exportação Thesa
+Dispositivos Computacionais;Elementos de Processamento Computacional;;Categoria não disponível no XML;Exportação Thesa
+Dispositivos Computacionais;Infraestrutura de Rede;;Categoria não disponível no XML;Exportação Thesa
+Dispositivos Computacionais;Serviços de Computação em Nuvem;;Categoria não disponível no XML;Exportação Thesa
+Elementos de Processamento Computacional;Ambiente Web;;Categoria não disponível no XML;Exportação Thesa
+Elementos de Processamento Computacional;Infraestrutura de Rede;;Categoria não disponível no XML;Exportação Thesa
+Elementos de Processamento Computacional;Serviços de Computação em Nuvem;;Categoria não disponível no XML;Exportação Thesa
+Entrada;Saída;Oposição/antonímia;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Esquema de Classificação;Notação da Classificação;;Categoria não disponível no XML;Exportação Thesa
+Esquema de Classificação;Tabela Auxiliar;;Categoria não disponível no XML;Exportação Thesa
+Ficha Catalográfica;Ponto de Acesso Descritivo;Objeto/Suas partes;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Fluxo Informacional;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Fluxo Informacional;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Fluxo Informacional;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Identificação de Conceitos;Seleção de Conceitos;;Categoria não disponível no XML;Exportação Thesa
+Indexação;Recurso Informacional;Ação/paciente ou objetivo;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Indexação;Sistema de Classificação Bibliográfica;;Categoria não disponível no XML;Exportação Thesa
+Indexação;Tesauro;;Categoria não disponível no XML;Exportação Thesa
+Infraestrutura de Rede;Serviços de Computação em Nuvem;;Categoria não disponível no XML;Exportação Thesa
+Instrumentos Normativos;Instrumentos da Catalogação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Instrumentos Normativos;Produtos da Catalogação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Instrumentos da Catalogação;Produtos da Catalogação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Integração entre Sistemas e Dados;Agentes;;Categoria não disponível no XML;Exportação Thesa
+Integração entre Sistemas e Dados;Ambientes e Infraestrutura Computacional;;Categoria não disponível no XML;Exportação Thesa
+Integração entre Sistemas e Dados;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Integração entre Sistemas e Dados;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Integração entre Sistemas e Dados;Fluxo Informacional;;Categoria não disponível no XML;Exportação Thesa
+Integração entre Sistemas e Dados;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Internet;Web;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Interoperabilidade Estrutural;Interoperabilidade Sintática;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Item Bibliográfico;Acervo (Biblioteca);Objeto/Suas partes;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Item Bibliográfico;Catálogo;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Item Bibliográfico;Metadado;Conceito ou objeto/propriedade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Linguagem;Fenômenos Semânticos;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Modelagem Conceitual;Mapa Conceitual;Ação/produto;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Modelagem Conceitual;Modelagem de Domínio;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Método Dedutivo;Método Indutivo;Oposição/antonímia;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Métodos de Raciocínio;Modelagem Conceitual;;Categoria não disponível no XML;Exportação Thesa
+Métodos e Procedimentos de Modelagem;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Ontologia;Relação Hierárquica;;Categoria não disponível no XML;Exportação Thesa
+Ontologia;Sistema de Classificação Bibliográfica;;Categoria não disponível no XML;Exportação Thesa
+Ontologia;Taxonomia;;Categoria não disponível no XML;Exportação Thesa
+Ontologia;Tesauro;;Categoria não disponível no XML;Exportação Thesa
+Ontologia;Web Semântica;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Organização da Informação;Armazenamento da informação;;Categoria não disponível no XML;Exportação Thesa
+Organização da Informação;Estruturação Semântica;;Categoria não disponível no XML;Exportação Thesa
+Organização da Informação;Ordenação;;Categoria não disponível no XML;Exportação Thesa
+Organização da Informação;Recuperação da Informação;;Categoria não disponível no XML;Exportação Thesa
+Organização da Informação;Representação da Informação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Organização da Informação;Representação do Conhecimento;;Categoria não disponível no XML;Exportação Thesa
+Organização do Conhecimento;Conceito;;Categoria não disponível no XML;Exportação Thesa
+Organização do Conhecimento;Estruturação Semântica;;Categoria não disponível no XML;Exportação Thesa
+Organização do Conhecimento;Modelagem de Domínio;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Organização do Conhecimento;Ordenação;;Categoria não disponível no XML;Exportação Thesa
+Organização do Conhecimento;Organização da Informação;;Categoria não disponível no XML;Exportação Thesa
+Organização do Conhecimento;Representação da Informação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Organização do Conhecimento;Representação do Conhecimento;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Organização, Representação e Recuperação da Informação e do Conhecimento;Agentes;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Ambientes e Infraestrutura Computacional;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Fluxo Informacional;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Integração entre Sistemas e Dados;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Tecnologias e Mecanismos de Representação na Web;;Categoria não disponível no XML;Exportação Thesa
+Organização, Representação e Recuperação da Informação e do Conhecimento;Unidades Conceituais e Estrutura dos Assuntos;;Categoria não disponível no XML;Exportação Thesa
+Procedimentos de Raciocínio;Abordagens de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Procedimentos de Raciocínio;Produtos da Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Pós-Coordenação;Pré-Coordenação;Oposição/antonímia;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Recuperação da Informação;Computador;;Categoria não disponível no XML;Exportação Thesa
+Recuperação da Informação;Dados Não Estruturados;Ação/paciente ou objetivo;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Recuperação da Informação;Dispositivo Móvel;;Categoria não disponível no XML;Exportação Thesa
+Recuperação da Informação;Estruturação Semântica;;Categoria não disponível no XML;Exportação Thesa
+Recuperação da Informação;Sistema de Recuperação da Informação;;Categoria não disponível no XML;Exportação Thesa
+Recurso Informacional;Agregação de Recursos;Objeto/Suas partes;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Recurso Informacional;Dados;;Categoria não disponível no XML;Exportação Thesa
+Recursos de Identificação;Recursos de Interligação de Dados;;Categoria não disponível no XML;Exportação Thesa
+Recursos de Representação na Web;Recursos de Identificação;;Categoria não disponível no XML;Exportação Thesa
+Recursos de Representação na Web;Recursos de Interligação de Dados;;Categoria não disponível no XML;Exportação Thesa
+Relação Associativa;Relação Hierárquica;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Relação Associativa;Relação de Equivalência;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Relação de Equivalência;Relação Hierárquica;;Categoria não disponível no XML;Exportação Thesa
+Relações Semânticas;Conceito;;Categoria não disponível no XML;Exportação Thesa
+Relações Semânticas;Forma de Coordenação;;Categoria não disponível no XML;Exportação Thesa
+Representação da Informação;Armazenamento da informação;;Categoria não disponível no XML;Exportação Thesa
+Representação da Informação;Estruturação Semântica;;Categoria não disponível no XML;Exportação Thesa
+Representação da Informação;Ordenação;;Categoria não disponível no XML;Exportação Thesa
+Representação da Informação;Recuperação da Informação;;Categoria não disponível no XML;Exportação Thesa
+Representação da Informação;Recurso Informacional;;Categoria não disponível no XML;Exportação Thesa
+Representação da Informação;Representação do Conhecimento;;Categoria não disponível no XML;Exportação Thesa
+Representação do Conhecimento;Estruturação Semântica;;Categoria não disponível no XML;Exportação Thesa
+Representação do Conhecimento;Modelagem Conceitual;;Categoria não disponível no XML;Exportação Thesa
+Representação do Conhecimento;Sistemas de Organização do Conhecimento;Ação/produto;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Simple Knowledge Organization System;Linked Data;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Simple Knowledge Organization System;Web Semântica;;Categoria não disponível no XML;Exportação Thesa
+Sistema de Classificação Bibliográfica;Ordenação;;Categoria não disponível no XML;Exportação Thesa
+Sistema de Classificação Bibliográfica;Pré-Coordenação;;Categoria não disponível no XML;Exportação Thesa
+Sistema de Classificação Bibliográfica;Relação Hierárquica;;Categoria não disponível no XML;Exportação Thesa
+Sistema de Classificação Bibliográfica;Taxonomia;;Categoria não disponível no XML;Exportação Thesa
+Sistema de Classificação Bibliográfica;Tesauro;;Categoria não disponível no XML;Exportação Thesa
+Sistema de Recuperação da Informação;Busca;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Organização do Conhecimento;Artefatos da Catalogação;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Sistemas de Organização do Conhecimento;Conceito;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Organização do Conhecimento;Relações Semânticas;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Organização do Conhecimento;Simple Knowledge Organization System;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Sistemas de Organização do Conhecimento;Teoria da Análise Facetada;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Organização do Conhecimento;Teoria da Terminologia;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Organização do Conhecimento;Teoria do Conceito;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Recuperação;Artefatos de Organização, Representação e Recuperação;;Categoria não disponível no XML;Exportação Thesa
+Sistemas de Recuperação;Fundamentos Teóricos;;Categoria não disponível no XML;Exportação Thesa
+Tabela Auxiliar;Notação da Classificação;;Categoria não disponível no XML;Exportação Thesa
+Taxonomia;Pré-Coordenação;;Categoria não disponível no XML;Exportação Thesa
+Taxonomia;Relação Hierárquica;;Categoria não disponível no XML;Exportação Thesa
+Taxonomia;Tesauro;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias de Representação do Conhecimento;Interoperabilidade;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias de Representação do Conhecimento;Web Semântica;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Agentes;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Ambientes e Infraestrutura Computacional;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Fluxo Informacional;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Integração entre Sistemas e Dados;;Categoria não disponível no XML;Exportação Thesa
+Tecnologias e Mecanismos de Representação na Web;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Teoria Geral da Terminologia;Teoria Comunicativa da Terminologia;Oposição/antonímia;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Teoria da Análise Facetada;Modelagem Conceitual;;Categoria não disponível no XML;Exportação Thesa
+Teoria da Análise Facetada;Teoria da Terminologia;;Categoria não disponível no XML;Exportação Thesa
+Teoria da Análise Facetada;Teoria do Conceito;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Teoria da Terminologia;Modelagem Conceitual;;Categoria não disponível no XML;Exportação Thesa
+Teoria do Conceito;Modelagem Conceitual;;Categoria não disponível no XML;Exportação Thesa
+Teoria do Conceito;Teoria da Terminologia;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Termo Descritor;Termo Não-descritor;;Categoria não disponível no XML;Exportação Thesa
+Tesauro;Pós-Coordenação;;Categoria não disponível no XML;Exportação Thesa
+Tesauro;Relação Associativa;;Categoria não disponível no XML;Exportação Thesa
+Tesauro;Relação Hierárquica;;Categoria não disponível no XML;Exportação Thesa
+Tesauro;Relação de Equivalência;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Tipologia do Assunto;Elementos de Constituição do Assunto;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Tratamento da Informação e do Conhecimento;Artefatos de Organização, Representação e Recuperação;;Categoria não disponível no XML;Exportação Thesa
+Tratamento da Informação e do Conhecimento;Fundamentos Teóricos;;Categoria não disponível no XML;Exportação Thesa
+Tratamento da Informação e do Conhecimento;Sistemas de Recuperação;;Categoria não disponível no XML;Exportação Thesa
+URI;Linked Data;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+URL;URN;Coordenação;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Unidades Conceituais;Assunto;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Agentes;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Ambientes e Infraestrutura Computacional;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Aspectos Linguístico-semânticos;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Entidades Informacionais;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Fluxo Informacional;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Integração entre Sistemas e Dados;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Métodos e Procedimentos de Modelagem;;Categoria não disponível no XML;Exportação Thesa
+Unidades Conceituais e Estrutura dos Assuntos;Tecnologias e Mecanismos de Representação na Web;;Categoria não disponível no XML;Exportação Thesa
+Web;Dados Não Estruturados;;Categoria não disponível no XML;Exportação Thesa
+Web 1.0;Web 2.0;;Categoria não disponível no XML;Exportação Thesa
+Web Semântica;Linked Data;Afinidade;Proposta — conferir no Thesa;Exportação Thesa + decisões de trabalho
+Web Semântica;URI;;Categoria não disponível no XML;Exportação Thesa
+Web Semântica;Web 1.0;;Categoria não disponível no XML;Exportação Thesa
+Web Semântica;Web 2.0;;Categoria não disponível no XML;Exportação Thesa
+Índice Alfabético;Esquema de Classificação;;Categoria não disponível no XML;Exportação Thesa
+Índice Alfabético;Notação da Classificação;;Categoria não disponível no XML;Exportação Thesa
+Índice Alfabético;Tabela Auxiliar;;Categoria não disponível no XML;Exportação Thesa
