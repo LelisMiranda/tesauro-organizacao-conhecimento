@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/2004/02/skos/core#" 
+xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:thesa="http://www.ufrgs.br/thesa/index.php/c/">
+<Collection>
+<name>Tesauro da Organização e Representação da Informação e do Conhecimento</name>
+<idth>1820</idth>
+<description></description>
+<created>2026-10-19 15:31:14</created>
+<update>2026-10-21</update>
+<introdution></introdution>
+<methodology></methodology>
+<audience></audience>
+<language>364</language>
+<url>https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820</url>
+</Collection>
+<Concept about="thesa:103631#">
+<prefLabel lang="pt" >Organização do Conhecimento</prefLabel>
+<related resource="thesa:103633"/>
+<related resource="thesa:103634"/>
+<related resource="thesa:103774"/>
+<related resource="thesa:103730"/>
+<related resource="thesa:103749"/>
+<related resource="thesa:103900"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103632"/>
+<scopeNote type="definition" lang="por">Área da Organização e Representação do Conhecimento e da Informação dedicada à estruturação sistemática de domínios do conhecimento, mediante a identificação, a organização e o relacionamento de conceitos e classes de conceitos, com base em suas características e relações.</scopeNote>
+</Concept>
+<Concept about="thesa:103632#">
+<prefLabel lang="pt" >Organização da Informação</prefLabel>
+<related resource="thesa:103631"/>
+<related resource="thesa:103633"/>
+<related resource="thesa:103634"/>
+<related resource="thesa:103730"/>
+<related resource="thesa:103774"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+<scopeNote type="definition" lang="por">Área da Organização e Representação do Conhecimento e da Informação dedicada à estruturação e à representação de recursos informacionais, por meio da descrição de suas características físicas e de conteúdo, com a finalidade de possibilitar o acesso e a recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103633#">
+<prefLabel lang="pt" >Representação da Informação</prefLabel>
+<narrower resource="thesa:103635"/>
+<narrower resource="thesa:103636"/>
+<narrower resource="thesa:103637"/>
+<related resource="thesa:103634"/>
+<related resource="thesa:103730"/>
+<related resource="thesa:103774"/>
+<related resource="thesa:103905"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634"/>
+<scopeNote type="definition" lang="por">Área da Organização e Representação do Conhecimento e da Informação dedicada à descrição dos atributos físicos e de conteúdo dos recursos informacionais, por meio de elementos descritivos que possibilitam sua identificação, organização, acesso e recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103634#">
+<prefLabel lang="pt" >Representação do Conhecimento</prefLabel>
+<related resource="thesa:103899"/>
+<related resource="thesa:103730"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103635"/>
+<scopeNote type="definition" lang="por">Área da Organização e Representação do Conhecimento e da Informação dedicada à simbolização e à estruturação de conceitos e suas relações, mediante a elaboração de representações que expressam e organizam o conhecimento de um domínio.</scopeNote>
+<scopeNote type="scopeNote" lang="por">Estabelece com o termo "Sistema de Organização do Conhecimento" uma relação associativa de "Ação/Produto".
+Isto porque, segundo Lima (2020, p. 68), os Sistemas de Organização do Conhecimento (SOC) constituem produtos dos processos de representação do conhecimento, que estruturam conceitos e suas relações em determinado domínio. 
+Assim, temos:
+- Ação: Representação do Conhecimento — processo de estruturação e expressão de conceitos e relações.
+- Produto: Sistemas de Organização do Conhecimento — instrumentos resultantes desse processo, como tesauros, taxonomias, ontologias e sistemas de classificação.</scopeNote>
+</Concept>
+<Concept about="thesa:103635#">
+<prefLabel lang="pt" >Catalogação</prefLabel>
+<related resource="thesa:103636"/>
+<related resource="thesa:103637"/>
+<altLabel lang="pt" >Representação Descritiva</altLabel>
+<related resource="thesa:103918"/>
+<related resource="thesa:103906"/>
+<related resource="thesa:103905"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103636"/>
+<scopeNote type="definition" lang="por">Processo de representação da informação que consiste na descrição das características físicas e de conteúdo de recursos informacionais e no estabelecimento de pontos de acesso, conforme regras e padrões específicos, visando à sua identificação, individualização, localização e recuperação em catálogos.</scopeNote>
+</Concept>
+<Concept about="thesa:103636#">
+<prefLabel lang="pt" >Classificação</prefLabel>
+<related resource="thesa:103637"/>
+<related resource="thesa:103774"/>
+<related resource="thesa:103905"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+<scopeNote type="definition" lang="por">Processo de representação da informação que consiste na atribuição de classes ou notações a assuntos ou recursos informacionais, conforme critérios e relações estabelecidos por um sistema de classificação, visando à sua organização, ordenação e recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103637#">
+<prefLabel lang="pt" >Indexação</prefLabel>
+<narrower resource="thesa:103638"/>
+<narrower resource="thesa:103640"/>
+<related resource="thesa:103905"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103638"/>
+<scopeNote type="definition" lang="por">Processo de representação da informação que consiste na análise do assunto de recursos informacionais, na identificação e seleção dos conceitos relevantes e em sua tradução para termos de uma linguagem de indexação, visando à representação temática e à recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103638#">
+<prefLabel lang="pt" >Análise de Assunto</prefLabel>
+<narrower resource="thesa:103644"/>
+<narrower resource="thesa:103645"/>
+<narrower resource="thesa:103646"/>
+<related resource="thesa:103640"/>
+<altLabel lang="pt" >Análise Documentária</altLabel>
+<altLabel lang="pt" >Análise Conceitual</altLabel>
+<related resource="thesa:103750"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103640"/>
+<scopeNote type="definition" lang="por">Etapa do processo de indexação que consiste na compreensão do conteúdo de um recurso informacional, na identificação dos conceitos nele presentes e na seleção daqueles considerados relevantes para sua representação temática.</scopeNote>
+</Concept>
+<Concept about="thesa:103640#">
+<prefLabel lang="pt" >Tradução</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103644"/>
+<scopeNote type="definition" lang="por">Etapa do processo de indexação que consiste na conversão dos conceitos selecionados durante a análise de assunto em termos ou notações de uma linguagem de indexação, visando à representação temática padronizada do recurso informacional.</scopeNote>
+</Concept>
+<Concept about="thesa:103644#">
+<prefLabel lang="pt" >Compreensão do Conteúdo</prefLabel>
+<related resource="thesa:103645"/>
+<related resource="thesa:103646"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103645"/>
+<scopeNote type="definition" lang="por">Etapa da análise de assunto que consiste na apreensão e interpretação do conteúdo de um recurso informacional em sua totalidade, visando ao entendimento de seus assuntos e significados.</scopeNote>
+</Concept>
+<Concept about="thesa:103645#">
+<prefLabel lang="pt" >Identificação de Conceitos</prefLabel>
+<related resource="thesa:103646"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103646"/>
+<scopeNote type="definition" lang="por">Etapa da análise de assunto que consiste no reconhecimento dos conceitos expressos no conteúdo de um recurso informacional, a partir de sua compreensão, visando à determinação dos assuntos nele abordados.</scopeNote>
+</Concept>
+<Concept about="thesa:103646#">
+<prefLabel lang="pt" >Seleção de Conceitos</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103648"/>
+<scopeNote type="definition" lang="por">Etapa da análise de assunto que consiste na escolha dos conceitos identificados considerados relevantes e representativos do conteúdo de um recurso informacional, conforme os objetivos da indexação e as necessidades de recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103648#">
+<prefLabel lang="pt" >Armazenamento da informação</prefLabel>
+<related resource="thesa:103633"/>
+<related resource="thesa:103649"/>
+<related resource="thesa:103730"/>
+<related resource="thesa:103797"/>
+<related resource="thesa:103799"/>
+<related resource="thesa:103859"/>
+<related resource="thesa:103632"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103649"/>
+<scopeNote type="definition" lang="por">Processo de tratamento da informação que consiste no registro, guarda e manutenção de recursos informacionais em diferentes suportes, sistemas e ambientes tecnológicos, visando à sua disponibilidade, acesso e posterior recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103649#">
+<prefLabel lang="pt" >Recuperação da Informação</prefLabel>
+<narrower resource="thesa:103863"/>
+<related resource="thesa:103652"/>
+<related resource="thesa:103730"/>
+<related resource="thesa:103797"/>
+<related resource="thesa:103799"/>
+<related resource="thesa:103632"/>
+<related resource="thesa:103633"/>
+<related resource="thesa:103913"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103652"/>
+<scopeNote type="definition" lang="por">Processo de tratamento da informação que consiste na busca, localização e obtenção de informações ou recursos informacionais, por meio de Sistemas de Recuperação da Informação (SRI), visando ao atendimento das necessidades informacionais dos usuários.</scopeNote>
+</Concept>
+<Concept about="thesa:103652#">
+<prefLabel lang="pt" >Sistema de Recuperação da Informação</prefLabel>
+<related resource="thesa:103863"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+<scopeNote type="definition" lang="por">Sistema de recuperação destinado à busca, localização e obtenção de informações ou recursos informacionais, mediante mecanismos de organização, representação e indexação que possibilitam sua recuperação conforme as necessidades informacionais dos usuários.</scopeNote>
+</Concept>
+<Concept about="thesa:103653#">
+<prefLabel lang="pt" >Tratamento da Informação e do Conhecimento</prefLabel>
+<narrower resource="thesa:103634"/>
+<narrower resource="thesa:103633"/>
+<narrower resource="thesa:103632"/>
+<narrower resource="thesa:103631"/>
+<narrower resource="thesa:103649"/>
+<narrower resource="thesa:103648"/>
+<narrower resource="thesa:103730"/>
+<narrower resource="thesa:103774"/>
+<related resource="thesa:103712"/>
+<related resource="thesa:103654"/>
+<related resource="thesa:103740"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103654"/>
+<scopeNote type="definition" lang="por">Conjunto de processos e operações destinados à organização e representação da informação e do conhecimento, bem como ao armazenamento e à recuperação da informação, mediante métodos, técnicas e instrumentos que possibilitam sua estruturação, sistematização, acesso e utilização.</scopeNote>
+</Concept>
+<Concept about="thesa:103654#">
+<prefLabel lang="pt" >Sistemas de Recuperação</prefLabel>
+<narrower resource="thesa:103652"/>
+<related resource="thesa:103712"/>
+<related resource="thesa:103740"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+<scopeNote type="definition" lang="por">Sistemas computacionais destinados à localização e obtenção de conteúdos ou recursos previamente armazenados, mediante mecanismos de busca e seleção, conforme critérios estabelecidos para sua recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103655#">
+<prefLabel lang="pt" >Organização, Representação e Recuperação da Informação e do Conhecimento</prefLabel>
+<narrower resource="thesa:103653"/>
+<narrower resource="thesa:103654"/>
+<narrower resource="thesa:103712"/>
+<narrower resource="thesa:103740"/>
+<related resource="thesa:103747"/>
+<related resource="thesa:103793"/>
+<related resource="thesa:103860"/>
+<related resource="thesa:103866"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103656"/>
+<scopeNote type="definition" lang="por">Campo de estudos da Ciência da Informação que compreende fundamentos teóricos, princípios, métodos, processos, sistemas e instrumentos relacionados à organização, representação, armazenamento e recuperação da informação e do conhecimento. Abrange a estruturação de conceitos e assuntos, o tratamento de recursos informacionais, os processos de organização e representação da informação e do conhecimento e os sistemas de organização do conhecimento, visando à organização, ao acesso, à utilização e à recuperação da informação e do conhecimento em diferentes ambientes informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103656#">
+<prefLabel lang="pt" >Tecnologias de Representação do Conhecimento</prefLabel>
+<narrower resource="thesa:103757"/>
+<related resource="thesa:103770"/>
+<related resource="thesa:103758"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712"/>
+<scopeNote type="definition" lang="por">Conjunto de recursos tecnológicos, linguagens e padrões computacionais destinados à estruturação e representação formal de conceitos e suas relações, possibilitando a organização, o processamento, o compartilhamento e a interoperabilidade do conhecimento em ambientes digitais.</scopeNote>
+<scopeNote type="definition" lang="por">Conjunto de recursos tecnológicos, linguagens e padrões computacionais destinados à estruturação e representação formal de conceitos e suas relações, possibilitando a organização, o processamento, o compartilhamento e a interoperabilidade do conhecimento em ambientes digitais.</scopeNote>
+</Concept>
+<Concept about="thesa:103712#">
+<prefLabel lang="pt" >Artefatos de Organização, Representação e Recuperação</prefLabel>
+<narrower resource="thesa:103713"/>
+<narrower resource="thesa:103914"/>
+<related resource="thesa:103740"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713"/>
+<scopeNote type="definition" lang="por">Instrumentos, sistemas e estruturas desenvolvidos para apoiar a organização, representação e recuperação da informação e do conhecimento, mediante recursos conceituais, documentários ou tecnológicos.</scopeNote>
+</Concept>
+<Concept about="thesa:103713#">
+<prefLabel lang="pt" >Sistemas de Organização do Conhecimento</prefLabel>
+<narrower resource="thesa:103714"/>
+<narrower resource="thesa:103715"/>
+<narrower resource="thesa:103716"/>
+<narrower resource="thesa:103717"/>
+<altLabel lang="pt" >SOC</altLabel>
+<related resource="thesa:103634"/>
+<related resource="thesa:103744"/>
+<related resource="thesa:103743"/>
+<related resource="thesa:103742"/>
+<related resource="thesa:103757"/>
+<related resource="thesa:103914"/>
+<altLabel lang="pt" >Knowledge Organization Systems</altLabel>
+<related resource="thesa:103731"/>
+<related resource="thesa:103749"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+<scopeNote type="definition" lang="por">Instrumentos de organização e representação do conhecimento constituídos por estruturas conceituais que sistematizam conceitos e suas relações em determinado domínio, visando à organização, representação e recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103714#">
+<prefLabel lang="pt" >Ontologia</prefLabel>
+<narrower resource="thesa:103718"/>
+<narrower resource="thesa:103719"/>
+<narrower resource="thesa:103720"/>
+<narrower resource="thesa:103721"/>
+<related resource="thesa:103758"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+<scopeNote type="definition" lang="por">Sistema de organização do conhecimento que formaliza conceitos, classes, atributos, relações e axiomas de um domínio, mediante uma representação explícita e processável por máquina, visando à representação semântica do conhecimento e à interoperabilidade entre sistemas.</scopeNote>
+</Concept>
+<Concept about="thesa:103715#">
+<prefLabel lang="pt" >Sistema de Classificação Bibliográfica</prefLabel>
+<narrower resource="thesa:103722"/>
+<narrower resource="thesa:103723"/>
+<narrower resource="thesa:103724"/>
+<narrower resource="thesa:103725"/>
+<related resource="thesa:103714"/>
+<related resource="thesa:103716"/>
+<related resource="thesa:103717"/>
+<related resource="thesa:103738"/>
+<related resource="thesa:103774"/>
+<related resource="thesa:103636"/>
+<related resource="thesa:103637"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716"/>
+<scopeNote type="definition" lang="por">Sistema de organização do conhecimento que estrutura assuntos em classes e subclasses, segundo princípios de divisão e ordenação, utilizando esquemas e notações para representar, agrupar e organizar recursos informacionais, visando à sua localização e recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103716#">
+<prefLabel lang="pt" >Taxonomia</prefLabel>
+<narrower resource="thesa:103735"/>
+<related resource="thesa:103714"/>
+<related resource="thesa:103738"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+<scopeNote type="definition" lang="por">Sistema de organização do conhecimento que estrutura conceitos de um domínio predominantemente por relações hierárquicas, segundo características de semelhança e diferença, visando à classificação, representação e navegação em recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103717#">
+<prefLabel lang="pt" >Tesauro</prefLabel>
+<narrower resource="thesa:103727"/>
+<narrower resource="thesa:103729"/>
+<related resource="thesa:103714"/>
+<related resource="thesa:103716"/>
+<related resource="thesa:103737"/>
+<related resource="thesa:103637"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103718"/>
+<scopeNote type="definition" lang="por">Sistema de organização do conhecimento constituído por um vocabulário controlado e estruturado que representa conceitos de um domínio por meio de termos preferidos e não preferidos e de relações semânticas de equivalência, hierarquia e associação, visando à representação temática e à recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103718#">
+<prefLabel lang="pt" >Atributo</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103719"/>
+<scopeNote type="definition" lang="por">Elemento constitutivo de uma ontologia que representa uma propriedade ou característica atribuída a uma classe ou instância, permitindo descrever e diferenciar as entidades de determinado domínio.</scopeNote>
+</Concept>
+<Concept about="thesa:103719#">
+<prefLabel lang="pt" >Axioma</prefLabel>
+<related resource="thesa:103718"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103720"/>
+<scopeNote type="definition" lang="por">Elemento constitutivo de uma ontologia que consiste em uma proposição formal expressa em linguagem lógica, utilizada para estabelecer restrições, condições ou relações entre entidades de um domínio, possibilitando a realização de inferências.s</scopeNote>
+</Concept>
+<Concept about="thesa:103720#">
+<prefLabel lang="pt" >Classe</prefLabel>
+<related resource="thesa:103719"/>
+<related resource="thesa:103718"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103721"/>
+<scopeNote type="definition" lang="por">Elemento constitutivo de uma ontologia que representa uma categoria de entidades que compartilham determinadas características, permitindo sua organização e classificação em uma estrutura conceitual.</scopeNote>
+</Concept>
+<Concept about="thesa:103721#">
+<prefLabel lang="pt" >Instância</prefLabel>
+<related resource="thesa:103719"/>
+<related resource="thesa:103720"/>
+<related resource="thesa:103718"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103722"/>
+<scopeNote type="definition" lang="por">Elemento constitutivo de uma ontologia que representa uma entidade individual pertencente a uma classe, caracterizada por propriedades e relações específicas no domínio representado.</scopeNote>
+</Concept>
+<Concept about="thesa:103722#">
+<prefLabel lang="pt" >Índice Alfabético</prefLabel>
+<related resource="thesa:103723"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103723"/>
+<scopeNote type="definition" lang="por">Componente de um sistema de classificação bibliográfica constituído por uma lista de termos organizados alfabeticamente e vinculados às respectivas notações, destinado a facilitar a localização dos assuntos representados no esquema de classificação.</scopeNote>
+</Concept>
+<Concept about="thesa:103723#">
+<prefLabel lang="pt" >Esquema de Classificação</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103724"/>
+<scopeNote type="definition" lang="por">Componente de um sistema de classificação bibliográfica constituído por uma estrutura sistemática e hierarquizada de classes e subclasses, organizadas segundo princípios de divisão e características comuns, destinada à representação e à ordenação dos assuntos de um domínio do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103724#">
+<prefLabel lang="pt" >Tabela Auxiliar</prefLabel>
+<related resource="thesa:103723"/>
+<related resource="thesa:103722"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103725"/>
+<scopeNote type="definition" lang="por">Componente complementar de um sistema de classificação bibliográfica constituído por subdivisões e notações que podem ser combinadas com classes do esquema principal, permitindo representar aspectos adicionais dos assuntos, como lugar, tempo, língua e forma.</scopeNote>
+</Concept>
+<Concept about="thesa:103725#">
+<prefLabel lang="pt" >Notação da Classificação</prefLabel>
+<related resource="thesa:103723"/>
+<related resource="thesa:103722"/>
+<related resource="thesa:103724"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103727"/>
+<scopeNote type="definition" lang="por">Componente de um sistema de classificação bibliográfica constituído por símbolos organizados segundo regras específicas, utilizados para representar classes, divisões e subdivisões do esquema de classificação, possibilitando a identificação e a ordenação dos assuntos.</scopeNote>
+</Concept>
+<Concept about="thesa:103727#">
+<prefLabel lang="pt" >Termo Descritor</prefLabel>
+<altLabel lang="pt" >Termo autorizado</altLabel>
+<altLabel lang="pt" >Termo preferido</altLabel>
+<related resource="thesa:103729"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103729"/>
+<scopeNote type="definition" lang="por">Componente de um tesauro constituído por um termo ou expressão preferencial, autorizado para representar um conceito de determinado domínio na indexação e na recuperação da informação, integrando uma estrutura de relações semânticas com outros termos.</scopeNote>
+</Concept>
+<Concept about="thesa:103729#">
+<prefLabel lang="pt" >Termo Não-descritor</prefLabel>
+<altLabel lang="pt" >Termo não-autorizado</altLabel>
+<altLabel lang="pt" >Termo não-preferido</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+<scopeNote type="definition" lang="por">Componente de um tesauro constituído por uma denominação alternativa de um conceito, não autorizada para uso na indexação, mas registrada como ponto de acesso que, mediante relação de equivalência, remete ao descritor adotado para sua representação.</scopeNote>
+</Concept>
+<Concept about="thesa:103730#">
+<prefLabel lang="pt" >Estruturação Semântica</prefLabel>
+<narrower resource="thesa:103731"/>
+<narrower resource="thesa:103739"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103731"/>
+<scopeNote type="definition" lang="por">Processo de tratamento da informação e do conhecimento que consiste na organização sistemática de conceitos e suas relações, segundo características e significados, visando à construção de estruturas conceituais coerentes.</scopeNote>
+</Concept>
+<Concept about="thesa:103731#">
+<prefLabel lang="pt" >Relações Semânticas</prefLabel>
+<narrower resource="thesa:103732"/>
+<narrower resource="thesa:103733"/>
+<altLabel lang="pt" >Relacionamentos semânticos</altLabel>
+<altLabel lang="pt" >Relações entre termos</altLabel>
+<related resource="thesa:103739"/>
+<related resource="thesa:103749"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103732"/>
+<scopeNote type="definition" lang="por">Vínculos estabelecidos entre conceitos ou entre suas denominações, com base em relações de significado, utilizados na estruturação de Sistemas de Organização do Conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103732#">
+<prefLabel lang="pt" >Relação Associativa</prefLabel>
+<related resource="thesa:103733"/>
+<related resource="thesa:103734"/>
+<related resource="thesa:103717"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103733"/>
+<scopeNote type="definition" lang="por">Tipo de relação semântica que estabelece vínculos entre conceitos distintos semanticamente relacionados, sem que exista entre eles uma relação hierárquica, visando à explicitação de associações conceituais relevantes em determinado domínio.</scopeNote>
+</Concept>
+<Concept about="thesa:103733#">
+<prefLabel lang="pt" >Relação de Equivalência</prefLabel>
+<related resource="thesa:103717"/>
+<scopeNote type="definition" lang="por">Tipo de relação semântica que estabelece correspondência entre diferentes denominações de um mesmo conceito, distinguindo termos preferidos e não preferidos em vocabulários controlados.</scopeNote>
+</Concept>
+<Concept about="thesa:103734#">
+<prefLabel lang="pt" >Relação Hierárquica</prefLabel>
+<related resource="thesa:103733"/>
+<related resource="thesa:103714"/>
+<related resource="thesa:103715"/>
+<related resource="thesa:103716"/>
+<related resource="thesa:103717"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103735"/>
+<scopeNote type="definition" lang="por">Tipo de relação semântica que estabelece vínculos de subordinação entre conceitos, fundamentados em relações de gênero–espécie ou todo–parte, permitindo sua organização em estruturas de maior e menor abrangência ou de constituição.</scopeNote>
+</Concept>
+<Concept about="thesa:103735#">
+<prefLabel lang="pt" >Rótulo</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103737"/>
+<scopeNote type="definition" lang="por">Elemento de uma taxonomia constituído por um termo ou expressão verbal utilizado para designar e identificar um conceito ou categoria em sua estrutura hierárquica, possibilitando seu reconhecimento e sua utilização na navegação e no acesso aos recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103737#">
+<prefLabel lang="pt" >Pós-Coordenação</prefLabel>
+<related resource="thesa:103738"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103738"/>
+<scopeNote type="definition" lang="por">Forma de coordenação de conceitos ou termos em linguagens de organização e representação do conhecimento que consiste em sua combinação no momento da busca e recuperação da informação, permitindo representar assuntos compostos a partir de termos previamente atribuídos de maneira independente.</scopeNote>
+</Concept>
+<Concept about="thesa:103738#">
+<prefLabel lang="pt" >Pré-Coordenação</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103739"/>
+<scopeNote type="definition" lang="por">Forma de coordenação de conceitos ou termos em linguagens de organização e representação do conhecimento que consiste em sua combinação prévia, formando expressões compostas para representar assuntos antes do momento da recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103739#">
+<prefLabel lang="pt" >Forma de Coordenação</prefLabel>
+<narrower resource="thesa:103738"/>
+<narrower resource="thesa:103737"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740"/>
+<scopeNote type="definition" lang="por">Procedimentos de estruturação semântica que consistem na combinação de conceitos ou termos em linguagens de organização e representação do conhecimento, diferenciados pelo momento em que ocorre essa combinação para a representação e a recuperação de assuntos.</scopeNote>
+</Concept>
+<Concept about="thesa:103740#">
+<prefLabel lang="pt" >Fundamentos Teóricos</prefLabel>
+<narrower resource="thesa:103741"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103741"/>
+<scopeNote type="definition" lang="por">Conjunto de princípios, conceitos e formulações teóricas que sustentam a compreensão e o desenvolvimento de métodos, processos e instrumentos de organização, representação e recuperação da informação e do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103741#">
+<prefLabel lang="pt" >Teorias</prefLabel>
+<narrower resource="thesa:103742"/>
+<narrower resource="thesa:103743"/>
+<narrower resource="thesa:103744"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103742"/>
+<scopeNote type="definition" lang="por">Sistemas organizados de conceitos, princípios e proposições que explicam fenômenos de determinado domínio e fornecem fundamentos para a análise, interpretação e desenvolvimento de conhecimentos e métodos.</scopeNote>
+</Concept>
+<Concept about="thesa:103742#">
+<prefLabel lang="pt" >Teoria da Análise Facetada</prefLabel>
+<altLabel lang="pt" >TAF</altLabel>
+<related resource="thesa:103899"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103743"/>
+<scopeNote type="definition" lang="por">Teoria de organização do conhecimento desenvolvida por Ranganathan, fundamentada no método analítico-sintético, que estabelece princípios para a decomposição de assuntos em facetas e conceitos constituintes, segundo características de divisão, e sua posterior combinação em estruturas classificatórias multidimensionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103743#">
+<prefLabel lang="pt" >Teoria do Conceito</prefLabel>
+<related resource="thesa:103742"/>
+<related resource="thesa:103744"/>
+<related resource="thesa:103899"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744"/>
+<scopeNote type="definition" lang="por">Teoria da organização do conhecimento desenvolvida por Ingetraut Dahlberg que estabelece princípios para a análise e a estruturação de conceitos, mediante a identificação das características dos referentes e sua síntese em unidades do conhecimento, orientando a elaboração de definições e o estabelecimento de relações conceituais.</scopeNote>
+</Concept>
+<Concept about="thesa:103744#">
+<prefLabel lang="pt" >Teoria da Terminologia</prefLabel>
+<narrower resource="thesa:103745"/>
+<narrower resource="thesa:103746"/>
+<related resource="thesa:103742"/>
+<related resource="thesa:103899"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103745"/>
+<scopeNote type="definition" lang="por">Conjunto de princípios e modelos teóricos destinados ao estudo dos conceitos, das denominações e de suas relações na comunicação especializada, considerando os processos de formação, representação, definição e utilização das unidades terminológicas em diferentes domínios do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103745#">
+<prefLabel lang="pt" >Teoria Geral da Terminologia</prefLabel>
+<altLabel lang="pt" >TGT</altLabel>
+<related resource="thesa:103746"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103746"/>
+<scopeNote type="definition" lang="por">Abordagem teórica da Terminologia, desenvolvida por Eugen Wüster, de caráter predominantemente prescritivo e normalizador, que estabelece princípios para a identificação, definição e organização sistemática de conceitos e suas denominações em domínios especializados, privilegiando a univocidade e a padronização terminológica para assegurar a precisão da comunicação científica e técnica.</scopeNote>
+</Concept>
+<Concept about="thesa:103746#">
+<prefLabel lang="pt" >Teoria Comunicativa da Terminologia</prefLabel>
+<altLabel lang="pt" >TCT</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+<scopeNote type="definition" lang="por">Abordagem teórica da Terminologia, desenvolvida por Maria Teresa Cabré, de caráter descritivo e sociocomunicativo, que analisa as unidades terminológicas em contextos reais de comunicação especializada, considerando suas dimensões linguística, cognitiva e comunicativa e reconhecendo fenômenos de variação terminológica, sinonímia e polissemia.</scopeNote>
+</Concept>
+<Concept about="thesa:103747#">
+<prefLabel lang="pt" >Unidades Conceituais e Estrutura dos Assuntos</prefLabel>
+<narrower resource="thesa:103750"/>
+<narrower resource="thesa:103748"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103748"/>
+<scopeNote type="definition" lang="por">Âmbito de organização do conhecimento que compreende as unidades conceituais e os elementos constitutivos dos assuntos, considerando suas características, composição e relações na estruturação de domínios do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103748#">
+<prefLabel lang="pt" >Unidades Conceituais</prefLabel>
+<narrower resource="thesa:103749"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103749"/>
+<scopeNote type="definition" lang="por">Unidades de conhecimento constituídas pela síntese estruturada de características atribuídas a referentes, permitindo sua identificação, delimitação e representação em determinado domínio.</scopeNote>
+</Concept>
+<Concept about="thesa:103749#">
+<prefLabel lang="pt" >Conceito</prefLabel>
+<altLabel lang="pt" >Unidade de conhecimento</altLabel>
+<altLabel lang="pt" >Unidade de pensamento</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103750"/>
+<scopeNote type="definition" lang="por">Unidade de conhecimento constituída pela síntese de características identificadas a partir de enunciados verdadeiros sobre um referente, podendo ser designada por um termo e relacionada a outros conceitos em determinado domínio do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103750#">
+<prefLabel lang="pt" >Assunto</prefLabel>
+<narrower resource="thesa:103751"/>
+<narrower resource="thesa:103752"/>
+<related resource="thesa:103748"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103751"/>
+<scopeNote type="definition" lang="por">Unidade de conhecimento constituída por um tema ou conjunto de conceitos que expressam o conteúdo de um documento ou domínio, podendo apresentar diferentes níveis de complexidade e composição.</scopeNote>
+</Concept>
+<Concept about="thesa:103751#">
+<prefLabel lang="pt" >Tipologia do Assunto</prefLabel>
+<narrower resource="thesa:103755"/>
+<narrower resource="thesa:103756"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103752"/>
+<scopeNote type="definition" lang="por">Classificação dos assuntos segundo suas características estruturais e formas de composição, distinguindo assuntos básicos, simples e compostos.</scopeNote>
+</Concept>
+<Concept about="thesa:103752#">
+<prefLabel lang="pt" >Elementos de Constituição do Assunto</prefLabel>
+<narrower resource="thesa:103753"/>
+<narrower resource="thesa:103754"/>
+<related resource="thesa:103751"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103753"/>
+<scopeNote type="definition" lang="por">Conjunto de elementos conceituais utilizados na formação e combinação de assuntos, permitindo sua decomposição e síntese em sistemas de classificação.</scopeNote>
+</Concept>
+<Concept about="thesa:103753#">
+<prefLabel lang="pt" >Assunto Básico</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103754"/>
+<scopeNote type="definition" lang="por">Conjunto de elementos conceituais utilizados na formação e combinação de assuntos, permitindo sua decomposição e síntese em sistemas de classificação.</scopeNote>
+</Concept>
+<Concept about="thesa:103754#">
+<prefLabel lang="pt" >Isolado</prefLabel>
+<related resource="thesa:103753"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103755"/>
+<scopeNote type="definition" lang="por">Elemento conceitual que representa uma característica ou manifestação de uma faceta, não constituindo, isoladamente, um assunto, mas podendo ser combinado com um assunto básico ou outros isolados para a formação de assuntos específicos.</scopeNote>
+</Concept>
+<Concept about="thesa:103755#">
+<prefLabel lang="pt" >Assunto Composto</prefLabel>
+<related resource="thesa:103756"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103756"/>
+<scopeNote type="definition" lang="por">Assunto constituído pela combinação de um assunto básico com um ou mais isolados, formando uma unidade temática mais específica.</scopeNote>
+</Concept>
+<Concept about="thesa:103756#">
+<prefLabel lang="pt" >Assunto Simples</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103757"/>
+<scopeNote type="definition" lang="por">Assunto constituído por um único assunto básico, sem a combinação de isolados ou de outros assuntos básicos.</scopeNote>
+</Concept>
+<Concept about="thesa:103757#">
+<prefLabel lang="pt" >Simple Knowledge Organization System</prefLabel>
+<altLabel lang="pt" >SKOS</altLabel>
+<related resource="thesa:103767"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+<scopeNote type="definition" lang="por">Modelo de dados para a representação de Sistemas de Organização do Conhecimento na Web Semântica, que permite expressar conceitos, suas denominações e relações semânticas em esquemas conceituais identificados por URIs, favorecendo sua publicação, seu compartilhamento e sua interoperabilidade.</scopeNote>
+</Concept>
+<Concept about="thesa:103758#">
+<prefLabel lang="pt" >Web Semântica</prefLabel>
+<related resource="thesa:103757"/>
+<related resource="thesa:103767"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103759"/>
+<scopeNote type="definition" lang="por">Abordagem de desenvolvimento da Web fundamentada na representação estruturada e semanticamente explícita de dados e suas relações, mediante metadados, modelos conceituais e linguagens formais que favorecem o processamento automatizado, a integração, a interoperabilidade e a recuperação da informação.</scopeNote>
+</Concept>
+<Concept about="thesa:103759#">
+<prefLabel lang="pt" >Tecnologias e Mecanismos de Representação na Web</prefLabel>
+<narrower resource="thesa:103760"/>
+<narrower resource="thesa:103761"/>
+<narrower resource="thesa:103762"/>
+<related resource="thesa:103655"/>
+<related resource="thesa:103768"/>
+<related resource="thesa:103793"/>
+<related resource="thesa:103860"/>
+<related resource="thesa:103866"/>
+<related resource="thesa:103747"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103760"/>
+<scopeNote type="definition" lang="por">Conjunto de tecnologias, padrões e mecanismos computacionais destinados à representação, identificação e interligação de conceitos, dados e recursos informacionais na Web, possibilitando sua estruturação, compartilhamento e interoperabilidade em ambientes digitais.</scopeNote>
+</Concept>
+<Concept about="thesa:103760#">
+<prefLabel lang="pt" >Recursos de Representação na Web</prefLabel>
+<narrower resource="thesa:103656"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103761"/>
+<scopeNote type="definition" lang="por">Conjunto de tecnologias, linguagens, modelos e padrões computacionais destinados à estruturação e representação de conceitos e suas relações na Web, permitindo a formalização, o compartilhamento e o processamento de estruturas conceituais em ambientes digitais.</scopeNote>
+</Concept>
+<Concept about="thesa:103761#">
+<prefLabel lang="pt" >Recursos de Identificação</prefLabel>
+<narrower resource="thesa:103764"/>
+<related resource="thesa:103760"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103762"/>
+<scopeNote type="definition" lang="por">Conjunto de mecanismos e padrões destinados à identificação de recursos na Web, mediante identificadores padronizados que permitem sua referência, localização ou designação de maneira uniforme em ambientes digitais.</scopeNote>
+</Concept>
+<Concept about="thesa:103762#">
+<prefLabel lang="pt" >Recursos de Interligação de Dados</prefLabel>
+<narrower resource="thesa:103767"/>
+<related resource="thesa:103760"/>
+<related resource="thesa:103761"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103764"/>
+<scopeNote type="definition" lang="por">Conjunto de princípios, métodos e mecanismos destinados ao estabelecimento de conexões entre dados e recursos informacionais na Web, mediante identificadores e relações semanticamente estruturadas, favorecendo sua integração, compartilhamento e interoperabilidade.</scopeNote>
+</Concept>
+<Concept about="thesa:103764#">
+<prefLabel lang="pt" >URI</prefLabel>
+<narrower resource="thesa:103765"/>
+<narrower resource="thesa:103766"/>
+<altLabel lang="pt" >Uniform Resource Identifier</altLabel>
+<related resource="thesa:103767"/>
+<related resource="thesa:103758"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103765"/>
+<scopeNote type="definition" lang="por">Identificador padronizado constituído por uma sequência de caracteres destinada à identificação de recursos físicos ou abstratos, por meio de mecanismos de identificação que incluem URLs e URNs.</scopeNote>
+</Concept>
+<Concept about="thesa:103765#">
+<prefLabel lang="pt" >URL</prefLabel>
+<related resource="thesa:103766"/>
+<altLabel lang="pt" >Uniform Resource Locator</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103766"/>
+<scopeNote type="definition" lang="por">Tipo de URI que identifica um recurso por meio de sua localização e do mecanismo utilizado para acessá-lo, geralmente mediante um endereço associado a um protocolo de comunicação.</scopeNote>
+</Concept>
+<Concept about="thesa:103766#">
+<prefLabel lang="pt" >URN</prefLabel>
+<altLabel lang="pt" >Uniform Resource Name</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103767"/>
+<scopeNote type="definition" lang="por">Tipo de URI que identifica um recurso por meio de um nome atribuído em um espaço de nomes, independentemente de sua localização ou do mecanismo utilizado para acessá-lo.</scopeNote>
+</Concept>
+<Concept about="thesa:103767#">
+<prefLabel lang="pt" >Linked Data</prefLabel>
+<altLabel lang="pt" >Dados interligados</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103768"/>
+<scopeNote type="definition" lang="por">Conjunto de princípios e boas práticas para a publicação e interligação de dados estruturados na Web, fundamentado na utilização de URIs, protocolos Web e padrões de representação que permitem estabelecer conexões entre recursos, favorecendo seu acesso, compartilhamento e processamento por pessoas e máquinas.</scopeNote>
+</Concept>
+<Concept about="thesa:103768#">
+<prefLabel lang="pt" >Integração entre Sistemas e Dados</prefLabel>
+<narrower resource="thesa:103769"/>
+<related resource="thesa:103655"/>
+<related resource="thesa:103793"/>
+<related resource="thesa:103860"/>
+<related resource="thesa:103866"/>
+<related resource="thesa:103747"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103769"/>
+<scopeNote type="definition" lang="por">Conjunto de processos e mecanismos destinados à conexão, ao compartilhamento e à utilização coordenada de dados e informações entre diferentes sistemas, mediante recursos tecnológicos, padrões e mecanismos de interoperabilidade.</scopeNote>
+</Concept>
+<Concept about="thesa:103769#">
+<prefLabel lang="pt" >Modalidades de Integração</prefLabel>
+<narrower resource="thesa:103770"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103770"/>
+<scopeNote type="definition" lang="por">Formas de integração entre sistemas e dados, diferenciadas segundo os mecanismos e as condições que possibilitam sua comunicação, compatibilidade e compartilhamento de informações.</scopeNote>
+</Concept>
+<Concept about="thesa:103770#">
+<prefLabel lang="pt" >Interoperabilidade</prefLabel>
+<narrower resource="thesa:103771"/>
+<narrower resource="thesa:103772"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103771"/>
+<scopeNote type="definition" lang="por">Capacidade de diferentes sistemas, aplicações ou componentes de trocar informações e utilizá-las de maneira integrada, mediante padrões e mecanismos que possibilitam a comunicação, a compatibilidade e a interpretação dos dados compartilhados.</scopeNote>
+</Concept>
+<Concept about="thesa:103771#">
+<prefLabel lang="pt" >Interoperabilidade Estrutural</prefLabel>
+<related resource="thesa:103772"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103772"/>
+<scopeNote type="definition" lang="por">Modalidade de interoperabilidade que possibilita a troca e a organização de dados entre sistemas mediante estruturas e modelos de informação compatíveis, preservando sua disposição e organização durante o intercâmbio.</scopeNote>
+</Concept>
+<Concept about="thesa:103772#">
+<prefLabel lang="pt" >Interoperabilidade Sintática</prefLabel>
+<narrower resource="thesa:103773"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103773"/>
+<scopeNote type="definition" lang="por">Modalidade de interoperabilidade que possibilita a troca de dados entre sistemas mediante formatos, linguagens e regras de codificação compartilhados, permitindo seu reconhecimento e processamento.</scopeNote>
+</Concept>
+<Concept about="thesa:103773#">
+<prefLabel lang="pt" >Interoperabilidade Semântica</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+<scopeNote type="definition" lang="por">Modalidade de interoperabilidade que, apoiada na compatibilidade sintática dos dados, possibilita a interpretação consistente de seus significados entre diferentes sistemas, mediante modelos conceituais, vocabulários controlados e relações semânticas formalizadas.</scopeNote>
+</Concept>
+<Concept about="thesa:103774#">
+<prefLabel lang="pt" >Ordenação</prefLabel>
+<scopeNote type="definition" lang="por">Processo de tratamento da informação que consiste na disposição sistemática de documentos, registros ou objetos informacionais segundo critérios previamente estabelecidos, visando a facilitar sua organização, localização e recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103787#">
+<prefLabel lang="pt" >Tesauro da Organização e Representação da Informação e do Conhecimento</prefLabel>
+<narrower resource="thesa:103759"/>
+<narrower resource="thesa:103747"/>
+<narrower resource="thesa:103768"/>
+<narrower resource="thesa:103655"/>
+<narrower resource="thesa:103793"/>
+<narrower resource="thesa:103860"/>
+<narrower resource="thesa:103866"/>
+<narrower resource="thesa:103880"/>
+<narrower resource="thesa:103888"/>
+<narrower resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+</Concept>
+<Concept about="thesa:103793#">
+<prefLabel lang="pt" >Ambientes e Infraestrutura Computacional</prefLabel>
+<narrower resource="thesa:103795"/>
+<narrower resource="thesa:103800"/>
+<narrower resource="thesa:103850"/>
+<narrower resource="thesa:103851"/>
+<narrower resource="thesa:103852"/>
+<related resource="thesa:103747"/>
+<related resource="thesa:103866"/>
+<related resource="thesa:103860"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103795"/>
+<scopeNote type="definition" lang="por">Conjunto de ambientes, dispositivos, serviços e recursos computacionais que possibilitam o processamento, armazenamento, comunicação e acesso à informação em sistemas e redes digitais.</scopeNote>
+</Concept>
+<Concept about="thesa:103795#">
+<prefLabel lang="pt" >Dispositivos Computacionais</prefLabel>
+<narrower resource="thesa:103797"/>
+<narrower resource="thesa:103799"/>
+<related resource="thesa:103800"/>
+<related resource="thesa:103851"/>
+<related resource="thesa:103850"/>
+<related resource="thesa:103852"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103797"/>
+<scopeNote type="definition" lang="por">Conjunto de equipamentos eletrônicos dotados de componentes físicos e recursos computacionais destinados ao processamento, armazenamento e comunicação de dados, mediante a execução de programas e instruções.</scopeNote>
+</Concept>
+<Concept about="thesa:103797#">
+<prefLabel lang="pt" >Computador</prefLabel>
+<related resource="thesa:103801"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103799"/>
+<scopeNote type="definition" lang="por">Dispositivo computacional eletrônico e programável destinado à execução de algoritmos e instruções, realizando operações de processamento, armazenamento e manipulação de dados e informações para a produção de resultados.</scopeNote>
+</Concept>
+<Concept about="thesa:103799#">
+<prefLabel lang="pt" >Dispositivo Móvel</prefLabel>
+<related resource="thesa:103797"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103800"/>
+<scopeNote type="definition" lang="por">Dispositivo computacional portátil destinado ao processamento de dados, à execução de aplicações e à comunicação e ao acesso à informação, caracterizado pela possibilidade de utilização em diferentes locais e situações de mobilidade.</scopeNote>
+</Concept>
+<Concept about="thesa:103800#">
+<prefLabel lang="pt" >Elementos de Processamento Computacional</prefLabel>
+<narrower resource="thesa:103801"/>
+<related resource="thesa:103851"/>
+<related resource="thesa:103850"/>
+<related resource="thesa:103852"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103801"/>
+<scopeNote type="definition" lang="por">Conjunto de recursos lógicos e computacionais destinados à definição e execução de operações de processamento de dados e informações, mediante instruções e procedimentos estruturados em sistemas computacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103801#">
+<prefLabel lang="pt" >Algoritmo</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103850"/>
+<scopeNote type="definition" lang="por">Recurso lógico de processamento computacional constituído por uma sequência finita e ordenada de instruções ou procedimentos bem definidos, destinados à execução de operações, à resolução de problemas ou à realização de tarefas específicas, a partir de dados de entrada, visando à obtenção de resultados.</scopeNote>
+</Concept>
+<Concept about="thesa:103850#">
+<prefLabel lang="pt" >Ambiente Web</prefLabel>
+<narrower resource="thesa:103854"/>
+<related resource="thesa:103851"/>
+<related resource="thesa:103852"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851"/>
+<scopeNote type="definition" lang="por">Ambiente digital constituído por recursos informacionais, serviços e aplicações interligados por meio de tecnologias e protocolos da Web, que possibilitam a publicação, navegação, interação, compartilhamento e recuperação de informações na Internet.</scopeNote>
+</Concept>
+<Concept about="thesa:103851#">
+<prefLabel lang="pt" >Infraestrutura de Rede</prefLabel>
+<narrower resource="thesa:103853"/>
+<related resource="thesa:103852"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+<scopeNote type="definition" lang="por">Conjunto de recursos físicos, lógicos e tecnológicos destinados à interconexão de dispositivos e sistemas computacionais, mediante protocolos e mecanismos de comunicação que possibilitam a transmissão, o compartilhamento e o acesso a dados e informações em redes digitais.</scopeNote>
+</Concept>
+<Concept about="thesa:103852#">
+<prefLabel lang="pt" >Serviços de Computação em Nuvem</prefLabel>
+<narrower resource="thesa:103859"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103853"/>
+<scopeNote type="definition" lang="por">Conjunto de serviços computacionais disponibilizados por meio de redes digitais, destinados ao fornecimento de recursos de processamento, armazenamento e outras funcionalidades tecnológicas sob demanda, mediante infraestruturas computacionais compartilhadas.</scopeNote>
+</Concept>
+<Concept about="thesa:103853#">
+<prefLabel lang="pt" >Internet</prefLabel>
+<related resource="thesa:103854"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854"/>
+<scopeNote type="definition" lang="por">Infraestrutura global de comunicação constituída por redes de computadores interconectadas, que utilizam protocolos padronizados, especialmente a família TCP/IP, para possibilitar a transmissão de dados, a comunicação entre dispositivos e o acesso a serviços e recursos informacionais distribuídos.</scopeNote>
+</Concept>
+<Concept about="thesa:103854#">
+<prefLabel lang="pt" >Web</prefLabel>
+<narrower resource="thesa:103758"/>
+<narrower resource="thesa:103855"/>
+<narrower resource="thesa:103856"/>
+<altLabel lang="pt" >World Wide Web</altLabel>
+<altLabel lang="pt" >WWW</altLabel>
+<related resource="thesa:103913"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103855"/>
+<scopeNote type="definition" lang="por">Sistema de informação distribuído, baseado em hipertexto e hipermídia, que opera sobre a Internet, utilizando identificadores, protocolos e tecnologias padronizados para possibilitar a identificação, interligação, publicação, navegação e recuperação de documentos e recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103855#">
+<prefLabel lang="pt" >Web 1.0</prefLabel>
+<related resource="thesa:103758"/>
+<related resource="thesa:103856"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103856"/>
+<scopeNote type="definition" lang="por">Modelo de desenvolvimento da Web caracterizado pela publicação predominantemente unidirecional de conteúdos estáticos, com participação limitada dos usuários na produção e modificação das informações disponibilizadas.</scopeNote>
+</Concept>
+<Concept about="thesa:103856#">
+<prefLabel lang="pt" >Web 2.0</prefLabel>
+<related resource="thesa:103758"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103858"/>
+<scopeNote type="definition" lang="por">Modelo de desenvolvimento da Web caracterizado pela interação, colaboração e participação ativa dos usuários na produção, modificação, organização e compartilhamento de conteúdos e metadados, mediante plataformas e serviços digitais dinâmicos.</scopeNote>
+</Concept>
+<Concept about="thesa:103858#">
+<prefLabel lang="pt" >Cloud Computing</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103859"/>
+<scopeNote type="definition" lang="por">Modelo de computação fundamentado no fornecimento sob demanda de recursos computacionais compartilhados e configuráveis, como servidores, armazenamento, aplicações e serviços, acessíveis por meio de redes digitais, com provisionamento flexível e mínima necessidade de intervenção humana no gerenciamento dos recursos.</scopeNote>
+</Concept>
+<Concept about="thesa:103859#">
+<prefLabel lang="pt" >Armazenamento em Nuvem</prefLabel>
+<narrower resource="thesa:103858"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+<scopeNote type="definition" lang="por">Serviço de computação em nuvem destinado ao armazenamento, gerenciamento e acesso remoto a dados e recursos informacionais em infraestruturas computacionais distribuídas, mediante conexão de rede.</scopeNote>
+</Concept>
+<Concept about="thesa:103860#">
+<prefLabel lang="pt" >Agentes</prefLabel>
+<narrower resource="thesa:103861"/>
+<related resource="thesa:103747"/>
+<related resource="thesa:103866"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103861"/>
+<scopeNote type="definition" lang="por">Conjunto de indivíduos, grupos ou entidades que participam dos processos de organização, representação, armazenamento, recuperação e utilização da informação e do conhecimento, desempenhando diferentes funções nos ambientes informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103861#">
+<prefLabel lang="pt" >Agentes dos Processos Informacionais</prefLabel>
+<narrower resource="thesa:103862"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103862"/>
+<scopeNote type="definition" lang="por">Conjunto de indivíduos ou grupos que participam dos processos de produção, organização, representação, recuperação e utilização da informação, desempenhando funções relacionadas à criação, ao tratamento, ao acesso e ao uso de recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103862#">
+<prefLabel lang="pt" >Comunidade de Usuários</prefLabel>
+<related resource="thesa:103863"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103863"/>
+<scopeNote type="definition" lang="por">Conjunto de indivíduos que compartilham necessidades ou interesses informacionais e utilizam recursos, serviços ou sistemas de informação para buscar, acessar, recuperar e utilizar informações em determinado contexto.</scopeNote>
+</Concept>
+<Concept about="thesa:103863#">
+<prefLabel lang="pt" >Busca</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+<scopeNote type="definition" lang="por">Processo de recuperação da informação que consiste na formulação e execução de consultas em sistemas de informação, mediante termos, expressões ou critérios de pesquisa, visando à localização de informações ou recursos informacionais que atendam às necessidades dos usuários.</scopeNote>
+</Concept>
+<Concept about="thesa:103866#">
+<prefLabel lang="pt" >Fluxo Informacional</prefLabel>
+<narrower resource="thesa:103867"/>
+<related resource="thesa:103747"/>
+<related resource="thesa:103880"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103867"/>
+<scopeNote type="definition" lang="por">Processo de circulação e transferência de informações entre agentes, sistemas ou ambientes informacionais, compreendendo operações de entrada e saída de dados e informações, mediante mecanismos de comunicação, processamento e compartilhamento.</scopeNote>
+</Concept>
+<Concept about="thesa:103867#">
+<prefLabel lang="pt" >Elementos do Fluxo Informacional</prefLabel>
+<narrower resource="thesa:103869"/>
+<narrower resource="thesa:103870"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103869"/>
+<scopeNote type="definition" lang="por">Conjunto de componentes que integram o fluxo informacional, relacionados à entrada e à saída de dados e informações em processos de comunicação, processamento e intercâmbio entre sistemas ou ambientes informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103869#">
+<prefLabel lang="pt" >Entrada</prefLabel>
+<related resource="thesa:103870"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103870"/>
+<scopeNote type="definition" lang="por">Elemento do fluxo informacional que consiste no recebimento ou na inserção de dados e informações em um sistema ou processo informacional, possibilitando seu processamento, armazenamento ou utilização.</scopeNote>
+</Concept>
+<Concept about="thesa:103870#">
+<prefLabel lang="pt" >Saída</prefLabel>
+<related resource="thesa:103863"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+<scopeNote type="definition" lang="por">Elemento do fluxo informacional que consiste na disponibilização ou transmissão de dados e informações resultantes de um sistema ou processo informacional, possibilitando seu acesso, comunicação ou utilização.</scopeNote>
+</Concept>
+<Concept about="thesa:103880#">
+<prefLabel lang="pt" >Aspectos Linguístico-semânticos</prefLabel>
+<narrower resource="thesa:103882"/>
+<narrower resource="thesa:103884"/>
+<related resource="thesa:103888"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103882"/>
+<scopeNote type="definition" lang="por">Conjunto de elementos e fenômenos relacionados à linguagem e à significação, que influenciam a expressão, a interpretação e a representação de conceitos e informações em diferentes contextos comunicativos e informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103882#">
+<prefLabel lang="pt" >Linguagem</prefLabel>
+<narrower resource="thesa:103883"/>
+<related resource="thesa:103884"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103883"/>
+<scopeNote type="definition" lang="por">Sistema estruturado de signos e regras de combinação utilizado para expressar, representar e comunicar ideias, conceitos e informações em diferentes contextos.</scopeNote>
+</Concept>
+<Concept about="thesa:103883#">
+<prefLabel lang="pt" >Linguagem Natural</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103884"/>
+<scopeNote type="definition" lang="por">Sistema de comunicação linguística desenvolvido e utilizado socialmente por comunidades humanas, constituído por palavras, expressões e regras gramaticais e semânticas que possibilitam a produção e a interpretação de significados. Linguagem utilizada nos documentos, caracterizada pela riqueza, variedade e particularidades decorrentes das diferentes culturas, disciplinas de origem e estilos dos autores; também denominada linguagem dos autores.</scopeNote>
+</Concept>
+<Concept about="thesa:103884#">
+<prefLabel lang="pt" >Fenômenos Semânticos</prefLabel>
+<narrower resource="thesa:103885"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103885"/>
+<scopeNote type="definition" lang="por">Conjunto de fenômenos relacionados à constituição, variação e interpretação dos significados de palavras e expressões em diferentes contextos linguísticos e comunicativos.</scopeNote>
+</Concept>
+<Concept about="thesa:103885#">
+<prefLabel lang="pt" >Fenômenos de Significação</prefLabel>
+<narrower resource="thesa:103886"/>
+<narrower resource="thesa:103887"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103886"/>
+<scopeNote type="definition" lang="por">Conjunto de manifestações semânticas relacionadas à atribuição, multiplicidade ou indeterminação de significados de unidades linguísticas, considerando seus usos e contextos de interpretação.</scopeNote>
+</Concept>
+<Concept about="thesa:103886#">
+<prefLabel lang="pt" >Ambiguidade</prefLabel>
+<related resource="thesa:103887"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103887"/>
+<scopeNote type="definition" lang="por">Fenômeno de significação caracterizado pela possibilidade de uma palavra, expressão ou enunciado admitir duas ou mais interpretações, em determinado contexto comunicativo.</scopeNote>
+</Concept>
+<Concept about="thesa:103887#">
+<prefLabel lang="pt" >Polissemia</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+<scopeNote type="definition" lang="por">Fenômeno de significação caracterizado pela existência de dois ou mais sentidos relacionados associados a uma mesma unidade lexical.</scopeNote>
+</Concept>
+<Concept about="thesa:103888#">
+<prefLabel lang="pt" >Métodos e Procedimentos de Modelagem</prefLabel>
+<narrower resource="thesa:103891"/>
+<narrower resource="thesa:103892"/>
+<narrower resource="thesa:103893"/>
+<related resource="thesa:103902"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103891"/>
+<scopeNote type="definition" lang="por">Conjunto de métodos, procedimentos e abordagens destinados à análise, identificação, estruturação e representação de conceitos e suas relações em determinado domínio do conhecimento, compreendendo processos de raciocínio, atividades de modelagem e seus produtos.</scopeNote>
+</Concept>
+<Concept about="thesa:103891#">
+<prefLabel lang="pt" >Procedimentos de Raciocínio</prefLabel>
+<narrower resource="thesa:103895"/>
+<related resource="thesa:103892"/>
+<related resource="thesa:103893"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103892"/>
+<scopeNote type="definition" lang="por">Conjunto de procedimentos intelectuais fundamentados em princípios lógicos, utilizados na análise de informações e na formulação de inferências para a construção e organização do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103892#">
+<prefLabel lang="pt" >Abordagens de Modelagem</prefLabel>
+<narrower resource="thesa:103899"/>
+<narrower resource="thesa:103900"/>
+<related resource="thesa:103893"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103893"/>
+<scopeNote type="definition" lang="por">Conjunto de procedimentos metodológicos destinados à construção de representações estruturadas de conceitos, entidades e relações, considerando as características e os limites de determinado domínio do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103893#">
+<prefLabel lang="pt" >Produtos da Modelagem</prefLabel>
+<narrower resource="thesa:103901"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103895"/>
+<scopeNote type="definition" lang="por">Conjunto de representações resultantes de processos de modelagem, destinadas à explicitação e à comunicação de conceitos, entidades e relações de determinado domínio do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103895#">
+<prefLabel lang="pt" >Métodos de Raciocínio</prefLabel>
+<narrower resource="thesa:103896"/>
+<narrower resource="thesa:103897"/>
+<related resource="thesa:103899"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103896"/>
+<scopeNote type="definition" lang="por">Conjunto de procedimentos sistemáticos de raciocínio que orientam a elaboração de inferências e conclusões a partir de premissas, observações ou evidências, segundo princípios lógicos, compreendendo abordagens dedutivas e indutivas.</scopeNote>
+</Concept>
+<Concept about="thesa:103896#">
+<prefLabel lang="pt" >Método Dedutivo</prefLabel>
+<altLabel lang="pt" >Top-down</altLabel>
+<related resource="thesa:103897"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103897"/>
+<scopeNote type="definition" lang="por">Método de raciocínio aplicado à organização do conhecimento que parte de categorias ou conceitos gerais para a identificação e estruturação de conceitos mais específicos, mediante divisões sucessivas que estabelecem classes e subclasses em uma estrutura hierárquica.</scopeNote>
+</Concept>
+<Concept about="thesa:103897#">
+<prefLabel lang="pt" >Método Indutivo</prefLabel>
+<altLabel lang="pt" >Bottom-up</altLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+<scopeNote type="definition" lang="por">Método de raciocínio aplicado à organização do conhecimento que parte da observação e análise de casos particulares, objetos ou expressões da linguagem especializada para identificar características comuns, agrupar conceitos e estabelecer classes mais abrangentes em uma estrutura conceitual.</scopeNote>
+</Concept>
+<Concept about="thesa:103899#">
+<prefLabel lang="pt" >Modelagem Conceitual</prefLabel>
+<related resource="thesa:103901"/>
+<related resource="thesa:103900"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103900"/>
+<scopeNote type="definition" lang="por">Processo de modelagem que consiste na identificação, análise e organização de conceitos e suas relações, visando à construção de representações abstratas e estruturadas que expressem a configuração conceitual de determinado domínio do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103900#">
+<prefLabel lang="pt" >Modelagem de Domínio</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103901"/>
+<scopeNote type="definition" lang="por">Processo de modelagem que consiste na delimitação, análise e representação sistemática de um domínio do conhecimento, mediante a identificação e estruturação de seus conceitos, entidades, características e relações relevantes, visando à explicitação de sua organização conceitual.</scopeNote>
+</Concept>
+<Concept about="thesa:103901#">
+<prefLabel lang="pt" >Mapa Conceitual</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+<scopeNote type="definition" lang="por">Representação gráfica do conhecimento resultante de processos de modelagem conceitual, constituída por conceitos interligados por palavras ou expressões de ligação que formam proposições, explicitando as relações conceituais e a estrutura de determinado domínio do conhecimento.</scopeNote>
+</Concept>
+<Concept about="thesa:103902#">
+<prefLabel lang="pt" >Entidades Informacionais</prefLabel>
+<narrower resource="thesa:103905"/>
+<narrower resource="thesa:103907"/>
+<narrower resource="thesa:103908"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+<scopeNote type="definition" lang="por">Conjunto de recursos, coleções e dados que constituem objetos de organização, representação, armazenamento e recuperação da informação em diferentes ambientes informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103905#">
+<prefLabel lang="pt" >Recurso Informacional</prefLabel>
+<narrower resource="thesa:103906"/>
+<related resource="thesa:103908"/>
+<related resource="thesa:103907"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103906"/>
+<scopeNote type="definition" lang="por">Unidade de informação registrada ou disponibilizada em diferentes formatos e suportes, físicos ou digitais, caracterizada por conteúdo identificável e passível de organização, representação, armazenamento e recuperação, destinada ao acesso, à consulta e à utilização por usuários ou sistemas.</scopeNote>
+</Concept>
+<Concept about="thesa:103906#">
+<prefLabel lang="pt" >Item Bibliográfico</prefLabel>
+<related resource="thesa:103919"/>
+<related resource="thesa:103912"/>
+<related resource="thesa:103909"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103907"/>
+<scopeNote type="definition" lang="por">Recurso informacional que constitui uma unidade individual de uma coleção ou acervo bibliográfico, em suporte físico ou digital, passível de identificação, descrição, organização e recuperação, compreendendo exemplares de livros, periódicos e outros materiais documentais.</scopeNote>
+</Concept>
+<Concept about="thesa:103907#">
+<prefLabel lang="pt" >Agregação de Recursos</prefLabel>
+<narrower resource="thesa:103909"/>
+<related resource="thesa:103908"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908"/>
+<scopeNote type="definition" lang="por">Conjunto de processos ou formas de reunião e organização de recursos informacionais em coleções, segundo critérios de seleção, finalidade ou pertencimento institucional.</scopeNote>
+</Concept>
+<Concept about="thesa:103908#">
+<prefLabel lang="pt" >Dados</prefLabel>
+<narrower resource="thesa:103910"/>
+<narrower resource="thesa:103911"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103909"/>
+<scopeNote type="definition" lang="por">Representações registradas de fatos, entidades, atributos ou ocorrências, expressas por símbolos, valores ou sinais, passíveis de armazenamento, processamento, interpretação e utilização em sistemas informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103909#">
+<prefLabel lang="pt" >Acervo (Biblioteca)</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103910"/>
+<scopeNote type="definition" lang="por">Agregação de recursos informacionais constituída por documentos e materiais bibliográficos, em diferentes formatos e suportes, reunidos, organizados e conservados por uma biblioteca, visando ao acesso, à consulta e à utilização da informação por seus usuários.</scopeNote>
+</Concept>
+<Concept about="thesa:103910#">
+<prefLabel lang="pt" >Dados de Representação</prefLabel>
+<narrower resource="thesa:103912"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103911"/>
+<scopeNote type="definition" lang="por">Conjunto de dados destinados à descrição, identificação, caracterização e representação de recursos informacionais, possibilitando sua organização, localização e recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103911#">
+<prefLabel lang="pt" >Dados segundo Estruturação</prefLabel>
+<narrower resource="thesa:103913"/>
+<related resource="thesa:103910"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103912"/>
+<scopeNote type="definition" lang="por">Agrupamento de dados segundo o grau de organização formal de suas estruturas, considerando a existência ou ausência de esquemas e padrões previamente definidos para seu armazenamento e processamento.</scopeNote>
+</Concept>
+<Concept about="thesa:103912#">
+<prefLabel lang="pt" >Metadado</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103913"/>
+<scopeNote type="definition" lang="por">Dado de representação que descreve, identifica ou contextualiza atributos e características de um recurso informacional, podendo constituir um ponto de acesso e apoiar sua organização, gestão, localização e recuperação.</scopeNote>
+</Concept>
+<Concept about="thesa:103913#">
+<prefLabel lang="pt" >Dados Não Estruturados</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914"/>
+<scopeNote type="definition" lang="por">Dados caracterizados pela ausência de um modelo ou esquema predefinido de organização, apresentados em diferentes formatos, como textos, imagens, áudios e vídeos, que podem exigir procedimentos específicos para seu processamento, análise e recuperação automatizada.</scopeNote>
+</Concept>
+<Concept about="thesa:103914#">
+<prefLabel lang="pt" >Artefatos da Catalogação</prefLabel>
+<narrower resource="thesa:103915"/>
+<narrower resource="thesa:103916"/>
+<narrower resource="thesa:103917"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103915"/>
+<scopeNote type="definition" lang="por">Conjunto de instrumentos normativos, recursos documentários e produtos utilizados ou produzidos nos processos de catalogação, destinados à descrição, identificação, organização e recuperação de recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103915#">
+<prefLabel lang="pt" >Instrumentos Normativos</prefLabel>
+<narrower resource="thesa:103918"/>
+<related resource="thesa:103916"/>
+<related resource="thesa:103917"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103916"/>
+<scopeNote type="definition" lang="por">Conjunto de instrumentos que estabelecem princípios, regras e diretrizes destinados à padronização dos procedimentos de descrição e representação de recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103916#">
+<prefLabel lang="pt" >Instrumentos da Catalogação</prefLabel>
+<narrower resource="thesa:103919"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103917"/>
+<scopeNote type="definition" lang="por">Conjunto de instrumentos documentários destinados à organização, reunião e disponibilização de registros catalográficos, possibilitando a identificação, localização e recuperação de recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103917#">
+<prefLabel lang="pt" >Produtos da Catalogação</prefLabel>
+<narrower resource="thesa:103920"/>
+<narrower resource="thesa:103921"/>
+<related resource="thesa:103916"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103918"/>
+<scopeNote type="definition" lang="por">Conjunto de representações e elementos descritivos resultantes dos processos de catalogação, destinados à identificação, descrição e recuperação de recursos informacionais.</scopeNote>
+</Concept>
+<Concept about="thesa:103918#">
+<prefLabel lang="pt" >Código de Catalogação</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103919"/>
+<scopeNote type="definition" lang="por">Instrumento normativo constituído por um conjunto sistematizado de princípios, regras e diretrizes que orientam a descrição e a representação de recursos informacionais e de suas relações bibliográficas, visando à padronização e à consistência dos registros catalográficos.</scopeNote>
+</Concept>
+<Concept about="thesa:103919#">
+<prefLabel lang="pt" >Catálogo</prefLabel>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103920"/>
+<scopeNote type="definition" lang="por">Instrumento da catalogação constituído por um conjunto organizado de registros catalográficos que representam os recursos informacionais de um ou mais acervos, mediante descrições e pontos de acesso, possibilitando sua identificação, localização e recuperação pelos usuários.</scopeNote>
+</Concept>
+<Concept about="thesa:103920#">
+<prefLabel lang="pt" >Ficha Catalográfica</prefLabel>
+<related resource="thesa:103921"/>
+<broader resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103921"/>
+<scopeNote type="definition" lang="por">Produto da catalogação constituído por um registro bibliográfico estruturado segundo normas e padrões catalográficos, contendo elementos de descrição, identificação e pontos de acesso relativos a um recurso informacional, tradicionalmente apresentado em cartão padronizado de 12,5 × 7,5 cm e atualmente também disponibilizado em formato digital.</scopeNote>
+</Concept>
+<Concept about="thesa:103921#">
+<prefLabel lang="pt" >Ponto de Acesso Descritivo</prefLabel>
+</Concept>
+</RDF>

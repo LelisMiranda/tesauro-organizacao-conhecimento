@@ -1,0 +1,1197 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103635> a skos:Concept ;
+    skos:altLabel "Representação Descritiva"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633> ;
+    skos:definition "Processo de representação da informação que consiste na descrição das características físicas e de conteúdo de recursos informacionais e no estabelecimento de pontos de acesso, conforme regras e padrões específicos, visando à sua identificação, individualização, localização e recuperação em catálogos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Catalogação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103636>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103905>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103906>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103918> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103644> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103638> ;
+    skos:definition "Etapa da análise de assunto que consiste na apreensão e interpretação do conteúdo de um recurso informacional em sua totalidade, visando ao entendimento de seus assuntos e significados."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Compreensão do Conteúdo"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103645>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103646> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103648> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Processo de tratamento da informação que consiste no registro, guarda e manutenção de recursos informacionais em diferentes suportes, sistemas e ambientes tecnológicos, visando à sua disponibilidade, acesso e posterior recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Armazenamento da informação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103632>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103649>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103797>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103799>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103859> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103721> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714> ;
+    skos:definition "Elemento constitutivo de uma ontologia que representa uma entidade individual pertencente a uma classe, caracterizada por propriedades e relações específicas no domínio representado."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Instância"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103718>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103719>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103720> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103725> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103715> ;
+    skos:definition "Componente de um sistema de classificação bibliográfica constituído por símbolos organizados segundo regras específicas, utilizados para representar classes, divisões e subdivisões do esquema de classificação, possibilitando a identificação e a ordenação dos assuntos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Notação da Classificação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103722>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103723>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103724> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103727> a skos:Concept ;
+    skos:altLabel "Termo autorizado"@pt,
+        "Termo preferido"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717> ;
+    skos:definition "Componente de um tesauro constituído por um termo ou expressão preferencial, autorizado para representar um conceito de determinado domínio na indexação e na recuperação da informação, integrando uma estrutura de relações semânticas com outros termos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Termo Descritor"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103729> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103732> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103731> ;
+    skos:definition "Tipo de relação semântica que estabelece vínculos entre conceitos distintos semanticamente relacionados, sem que exista entre eles uma relação hierárquica, visando à explicitação de associações conceituais relevantes em determinado domínio."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Relação Associativa"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103733>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103734> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103734> a skos:Concept ;
+    skos:definition "Tipo de relação semântica que estabelece vínculos de subordinação entre conceitos, fundamentados em relações de gênero–espécie ou todo–parte, permitindo sua organização em estruturas de maior e menor abrangência ou de constituição."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Relação Hierárquica"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103715>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103716>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103733> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103735> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103716> ;
+    skos:definition "Elemento de uma taxonomia constituído por um termo ou expressão verbal utilizado para designar e identificar um conceito ou categoria em sua estrutura hierárquica, possibilitando seu reconhecimento e sua utilização na navegação e no acesso aos recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Rótulo"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103745> a skos:Concept ;
+    skos:altLabel "TGT"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103744> ;
+    skos:definition "Abordagem teórica da Terminologia, desenvolvida por Eugen Wüster, de caráter predominantemente prescritivo e normalizador, que estabelece princípios para a identificação, definição e organização sistemática de conceitos e suas denominações em domínios especializados, privilegiando a univocidade e a padronização terminológica para assegurar a precisão da comunicação científica e técnica."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Teoria Geral da Terminologia"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103746> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103754> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103752> ;
+    skos:definition "Elemento conceitual que representa uma característica ou manifestação de uma faceta, não constituindo, isoladamente, um assunto, mas podendo ser combinado com um assunto básico ou outros isolados para a formação de assuntos específicos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Isolado"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103753> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103755> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103751> ;
+    skos:definition "Assunto constituído pela combinação de um assunto básico com um ou mais isolados, formando uma unidade temática mais específica."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Assunto Composto"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103756> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103765> a skos:Concept ;
+    skos:altLabel "Uniform Resource Locator"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103764> ;
+    skos:definition "Tipo de URI que identifica um recurso por meio de sua localização e do mecanismo utilizado para acessá-lo, geralmente mediante um endereço associado a um protocolo de comunicação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "URL"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103766> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103771> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103770> ;
+    skos:definition "Modalidade de interoperabilidade que possibilita a troca e a organização de dados entre sistemas mediante estruturas e modelos de informação compatíveis, preservando sua disposição e organização durante o intercâmbio."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Interoperabilidade Estrutural"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103772> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103773> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103772> ;
+    skos:definition "Modalidade de interoperabilidade que, apoiada na compatibilidade sintática dos dados, possibilita a interpretação consistente de seus significados entre diferentes sistemas, mediante modelos conceituais, vocabulários controlados e relações semânticas formalizadas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Interoperabilidade Semântica"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103853> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103851> ;
+    skos:definition "Infraestrutura global de comunicação constituída por redes de computadores interconectadas, que utilizam protocolos padronizados, especialmente a família TCP/IP, para possibilitar a transmissão de dados, a comunicação entre dispositivos e o acesso a serviços e recursos informacionais distribuídos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Internet"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103854> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103855> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103854> ;
+    skos:definition "Modelo de desenvolvimento da Web caracterizado pela publicação predominantemente unidirecional de conteúdos estáticos, com participação limitada dos usuários na produção e modificação das informações disponibilizadas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Web 1.0"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103758>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103856> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103858> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103859> ;
+    skos:definition "Modelo de computação fundamentado no fornecimento sob demanda de recursos computacionais compartilhados e configuráveis, como servidores, armazenamento, aplicações e serviços, acessíveis por meio de redes digitais, com provisionamento flexível e mínima necessidade de intervenção humana no gerenciamento dos recursos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Cloud Computing"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103862> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103861> ;
+    skos:definition "Conjunto de indivíduos que compartilham necessidades ou interesses informacionais e utilizam recursos, serviços ou sistemas de informação para buscar, acessar, recuperar e utilizar informações em determinado contexto."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Comunidade de Usuários"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103863> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103869> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103867> ;
+    skos:definition "Elemento do fluxo informacional que consiste no recebimento ou na inserção de dados e informações em um sistema ou processo informacional, possibilitando seu processamento, armazenamento ou utilização."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Entrada"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103870> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103883> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103882> ;
+    skos:definition "Sistema de comunicação linguística desenvolvido e utilizado socialmente por comunidades humanas, constituído por palavras, expressões e regras gramaticais e semânticas que possibilitam a produção e a interpretação de significados. Linguagem utilizada nos documentos, caracterizada pela riqueza, variedade e particularidades decorrentes das diferentes culturas, disciplinas de origem e estilos dos autores; também denominada linguagem dos autores."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Linguagem Natural"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103886> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103885> ;
+    skos:definition "Fenômeno de significação caracterizado pela possibilidade de uma palavra, expressão ou enunciado admitir duas ou mais interpretações, em determinado contexto comunicativo."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Ambiguidade"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103887> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103896> a skos:Concept ;
+    skos:altLabel "Top-down"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103895> ;
+    skos:definition "Método de raciocínio aplicado à organização do conhecimento que parte de categorias ou conceitos gerais para a identificação e estruturação de conceitos mais específicos, mediante divisões sucessivas que estabelecem classes e subclasses em uma estrutura hierárquica."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Método Dedutivo"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103897> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103920> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103917> ;
+    skos:definition "Produto da catalogação constituído por um registro bibliográfico estruturado segundo normas e padrões catalográficos, contendo elementos de descrição, identificação e pontos de acesso relativos a um recurso informacional, tradicionalmente apresentado em cartão padronizado de 12,5 × 7,5 cm e atualmente também disponibilizado em formato digital."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Ficha Catalográfica"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103921> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103631> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Área da Organização e Representação do Conhecimento e da Informação dedicada à estruturação sistemática de domínios do conhecimento, mediante a identificação, a organização e o relacionamento de conceitos e classes de conceitos, com base em suas características e relações."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Organização do Conhecimento"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103634>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103749>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103774>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103900> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103640> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637> ;
+    skos:definition "Etapa do processo de indexação que consiste na conversão dos conceitos selecionados durante a análise de assunto em termos ou notações de uma linguagem de indexação, visando à representação temática padronizada do recurso informacional."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Tradução"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103645> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103638> ;
+    skos:definition "Etapa da análise de assunto que consiste no reconhecimento dos conceitos expressos no conteúdo de um recurso informacional, a partir de sua compreensão, visando à determinação dos assuntos nele abordados."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Identificação de Conceitos"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103646> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103652> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103654> ;
+    skos:definition "Sistema de recuperação destinado à busca, localização e obtenção de informações ou recursos informacionais, mediante mecanismos de organização, representação e indexação que possibilitam sua recuperação conforme as necessidades informacionais dos usuários."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Sistema de Recuperação da Informação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103863> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103656> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103760> ;
+    skos:definition "Conjunto de recursos tecnológicos, linguagens e padrões computacionais destinados à estruturação e representação formal de conceitos e suas relações, possibilitando a organização, o processamento, o compartilhamento e a interoperabilidade do conhecimento em ambientes digitais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103757> ;
+    skos:prefLabel "Tecnologias de Representação do Conhecimento"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103758>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103770> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103720> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714> ;
+    skos:definition "Elemento constitutivo de uma ontologia que representa uma categoria de entidades que compartilham determinadas características, permitindo sua organização e classificação em uma estrutura conceitual."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Classe"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103718>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103719> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103724> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103715> ;
+    skos:definition "Componente complementar de um sistema de classificação bibliográfica constituído por subdivisões e notações que podem ser combinadas com classes do esquema principal, permitindo representar aspectos adicionais dos assuntos, como lugar, tempo, língua e forma."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Tabela Auxiliar"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103722>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103723> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103729> a skos:Concept ;
+    skos:altLabel "Termo não-autorizado"@pt,
+        "Termo não-preferido"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717> ;
+    skos:definition "Componente de um tesauro constituído por uma denominação alternativa de um conceito, não autorizada para uso na indexação, mas registrada como ponto de acesso que, mediante relação de equivalência, remete ao descritor adotado para sua representação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Termo Não-descritor"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103737> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103739> ;
+    skos:definition "Forma de coordenação de conceitos ou termos em linguagens de organização e representação do conhecimento que consiste em sua combinação no momento da busca e recuperação da informação, permitindo representar assuntos compostos a partir de termos previamente atribuídos de maneira independente."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Pós-Coordenação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103738> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103743> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103741> ;
+    skos:definition "Teoria da organização do conhecimento desenvolvida por Ingetraut Dahlberg que estabelece princípios para a análise e a estruturação de conceitos, mediante a identificação das características dos referentes e sua síntese em unidades do conhecimento, orientando a elaboração de definições e o estabelecimento de relações conceituais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Teoria do Conceito"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103742>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103744>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103899> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103746> a skos:Concept ;
+    skos:altLabel "TCT"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103744> ;
+    skos:definition "Abordagem teórica da Terminologia, desenvolvida por Maria Teresa Cabré, de caráter descritivo e sociocomunicativo, que analisa as unidades terminológicas em contextos reais de comunicação especializada, considerando suas dimensões linguística, cognitiva e comunicativa e reconhecendo fenômenos de variação terminológica, sinonímia e polissemia."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Teoria Comunicativa da Terminologia"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103753> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103752> ;
+    skos:definition "Conjunto de elementos conceituais utilizados na formação e combinação de assuntos, permitindo sua decomposição e síntese em sistemas de classificação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Assunto Básico"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103756> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103751> ;
+    skos:definition "Assunto constituído por um único assunto básico, sem a combinação de isolados ou de outros assuntos básicos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Assunto Simples"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103762> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103759> ;
+    skos:definition "Conjunto de princípios, métodos e mecanismos destinados ao estabelecimento de conexões entre dados e recursos informacionais na Web, mediante identificadores e relações semanticamente estruturadas, favorecendo sua integração, compartilhamento e interoperabilidade."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103767> ;
+    skos:prefLabel "Recursos de Interligação de Dados"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103760>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103761> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103766> a skos:Concept ;
+    skos:altLabel "Uniform Resource Name"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103764> ;
+    skos:definition "Tipo de URI que identifica um recurso por meio de um nome atribuído em um espaço de nomes, independentemente de sua localização ou do mecanismo utilizado para acessá-lo."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "URN"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103769> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103768> ;
+    skos:definition "Formas de integração entre sistemas e dados, diferenciadas segundo os mecanismos e as condições que possibilitam sua comunicação, compatibilidade e compartilhamento de informações."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103770> ;
+    skos:prefLabel "Modalidades de Integração"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103801> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103800> ;
+    skos:definition "Recurso lógico de processamento computacional constituído por uma sequência finita e ordenada de instruções ou procedimentos bem definidos, destinados à execução de operações, à resolução de problemas ou à realização de tarefas específicas, a partir de dados de entrada, visando à obtenção de resultados."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Algoritmo"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103856> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103854> ;
+    skos:definition "Modelo de desenvolvimento da Web caracterizado pela interação, colaboração e participação ativa dos usuários na produção, modificação, organização e compartilhamento de conteúdos e metadados, mediante plataformas e serviços digitais dinâmicos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Web 2.0"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103758> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103861> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103860> ;
+    skos:definition "Conjunto de indivíduos ou grupos que participam dos processos de produção, organização, representação, recuperação e utilização da informação, desempenhando funções relacionadas à criação, ao tratamento, ao acesso e ao uso de recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103862> ;
+    skos:prefLabel "Agentes dos Processos Informacionais"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103870> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103867> ;
+    skos:definition "Elemento do fluxo informacional que consiste na disponibilização ou transmissão de dados e informações resultantes de um sistema ou processo informacional, possibilitando seu acesso, comunicação ou utilização."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Saída"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103863> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103882> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880> ;
+    skos:definition "Sistema estruturado de signos e regras de combinação utilizado para expressar, representar e comunicar ideias, conceitos e informações em diferentes contextos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103883> ;
+    skos:prefLabel "Linguagem"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103884> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103887> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103885> ;
+    skos:definition "Fenômeno de significação caracterizado pela existência de dois ou mais sentidos relacionados associados a uma mesma unidade lexical."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Polissemia"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103891> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888> ;
+    skos:definition "Conjunto de procedimentos intelectuais fundamentados em princípios lógicos, utilizados na análise de informações e na formulação de inferências para a construção e organização do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103895> ;
+    skos:prefLabel "Procedimentos de Raciocínio"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103892>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103893> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103897> a skos:Concept ;
+    skos:altLabel "Bottom-up"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103895> ;
+    skos:definition "Método de raciocínio aplicado à organização do conhecimento que parte da observação e análise de casos particulares, objetos ou expressões da linguagem especializada para identificar características comuns, agrupar conceitos e estabelecer classes mais abrangentes em uma estrutura conceitual."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Método Indutivo"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103901> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103893> ;
+    skos:definition "Representação gráfica do conhecimento resultante de processos de modelagem conceitual, constituída por conceitos interligados por palavras ou expressões de ligação que formam proposições, explicitando as relações conceituais e a estrutura de determinado domínio do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Mapa Conceitual"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103906> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103905> ;
+    skos:definition "Recurso informacional que constitui uma unidade individual de uma coleção ou acervo bibliográfico, em suporte físico ou digital, passível de identificação, descrição, organização e recuperação, compreendendo exemplares de livros, periódicos e outros materiais documentais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Item Bibliográfico"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103909>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103912>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103919> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103909> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103907> ;
+    skos:definition "Agregação de recursos informacionais constituída por documentos e materiais bibliográficos, em diferentes formatos e suportes, reunidos, organizados e conservados por uma biblioteca, visando ao acesso, à consulta e à utilização da informação por seus usuários."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Acervo (Biblioteca)"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103911> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103908> ;
+    skos:definition "Agrupamento de dados segundo o grau de organização formal de suas estruturas, considerando a existência ou ausência de esquemas e padrões previamente definidos para seu armazenamento e processamento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103913> ;
+    skos:prefLabel "Dados segundo Estruturação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103910> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103912> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103910> ;
+    skos:definition "Dado de representação que descreve, identifica ou contextualiza atributos e características de um recurso informacional, podendo constituir um ponto de acesso e apoiar sua organização, gestão, localização e recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Metadado"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103915> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103914> ;
+    skos:definition "Conjunto de instrumentos que estabelecem princípios, regras e diretrizes destinados à padronização dos procedimentos de descrição e representação de recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103918> ;
+    skos:prefLabel "Instrumentos Normativos"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103916>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103917> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103918> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103915> ;
+    skos:definition "Instrumento normativo constituído por um conjunto sistematizado de princípios, regras e diretrizes que orientam a descrição e a representação de recursos informacionais e de suas relações bibliográficas, visando à padronização e à consistência dos registros catalográficos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Código de Catalogação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103919> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103916> ;
+    skos:definition "Instrumento da catalogação constituído por um conjunto organizado de registros catalográficos que representam os recursos informacionais de um ou mais acervos, mediante descrições e pontos de acesso, possibilitando sua identificação, localização e recuperação pelos usuários."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Catálogo"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103921> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103917> ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Ponto de Acesso Descritivo"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103632> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Área da Organização e Representação do Conhecimento e da Informação dedicada à estruturação e à representação de recursos informacionais, por meio da descrição de suas características físicas e de conteúdo, com a finalidade de possibilitar o acesso e a recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Organização da Informação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103631>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103634>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103774> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103636> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633> ;
+    skos:definition "Processo de representação da informação que consiste na atribuição de classes ou notações a assuntos ou recursos informacionais, conforme critérios e relações estabelecidos por um sistema de classificação, visando à sua organização, ordenação e recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Classificação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103774>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103905> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103646> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103638> ;
+    skos:definition "Etapa da análise de assunto que consiste na escolha dos conceitos identificados considerados relevantes e representativos do conteúdo de um recurso informacional, conforme os objetivos da indexação e as necessidades de recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Seleção de Conceitos"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103649> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Processo de tratamento da informação que consiste na busca, localização e obtenção de informações ou recursos informacionais, por meio de Sistemas de Recuperação da Informação (SRI), visando ao atendimento das necessidades informacionais dos usuários."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103863> ;
+    skos:prefLabel "Recuperação da Informação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103632>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103652>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103797>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103799>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103913> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103654> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655> ;
+    skos:definition "Sistemas computacionais destinados à localização e obtenção de conteúdos ou recursos previamente armazenados, mediante mecanismos de busca e seleção, conforme critérios estabelecidos para sua recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103652> ;
+    skos:prefLabel "Sistemas de Recuperação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103712>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103740> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103719> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714> ;
+    skos:definition "Elemento constitutivo de uma ontologia que consiste em uma proposição formal expressa em linguagem lógica, utilizada para estabelecer restrições, condições ou relações entre entidades de um domínio, possibilitando a realização de inferências.s"@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Axioma"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103718> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103722> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103715> ;
+    skos:definition "Componente de um sistema de classificação bibliográfica constituído por uma lista de termos organizados alfabeticamente e vinculados às respectivas notações, destinado a facilitar a localização dos assuntos representados no esquema de classificação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Índice Alfabético"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103723> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103733> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103731> ;
+    skos:definition "Tipo de relação semântica que estabelece correspondência entre diferentes denominações de um mesmo conceito, distinguindo termos preferidos e não preferidos em vocabulários controlados."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Relação de Equivalência"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103748> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747> ;
+    skos:definition "Unidades de conhecimento constituídas pela síntese estruturada de características atribuídas a referentes, permitindo sua identificação, delimitação e representação em determinado domínio."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103749> ;
+    skos:prefLabel "Unidades Conceituais"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103752> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103750> ;
+    skos:definition "Conjunto de elementos conceituais utilizados na formação e combinação de assuntos, permitindo sua decomposição e síntese em sistemas de classificação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103753>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103754> ;
+    skos:prefLabel "Elementos de Constituição do Assunto"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103751> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103757> a skos:Concept ;
+    skos:altLabel "SKOS"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103656> ;
+    skos:definition "Modelo de dados para a representação de Sistemas de Organização do Conhecimento na Web Semântica, que permite expressar conceitos, suas denominações e relações semânticas em esquemas conceituais identificados por URIs, favorecendo sua publicação, seu compartilhamento e sua interoperabilidade."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Simple Knowledge Organization System"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103767> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103761> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103759> ;
+    skos:definition "Conjunto de mecanismos e padrões destinados à identificação de recursos na Web, mediante identificadores padronizados que permitem sua referência, localização ou designação de maneira uniforme em ambientes digitais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103764> ;
+    skos:prefLabel "Recursos de Identificação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103760> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103764> a skos:Concept ;
+    skos:altLabel "Uniform Resource Identifier"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103761> ;
+    skos:definition "Identificador padronizado constituído por uma sequência de caracteres destinada à identificação de recursos físicos ou abstratos, por meio de mecanismos de identificação que incluem URLs e URNs."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103765>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103766> ;
+    skos:prefLabel "URI"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103758>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103767> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103768> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de processos e mecanismos destinados à conexão, ao compartilhamento e à utilização coordenada de dados e informações entre diferentes sistemas, mediante recursos tecnológicos, padrões e mecanismos de interoperabilidade."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103769> ;
+    skos:prefLabel "Integração entre Sistemas e Dados"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103860>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103772> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103770> ;
+    skos:definition "Modalidade de interoperabilidade que possibilita a troca de dados entre sistemas mediante formatos, linguagens e regras de codificação compartilhados, permitindo seu reconhecimento e processamento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103773> ;
+    skos:prefLabel "Interoperabilidade Sintática"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103795> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793> ;
+    skos:definition "Conjunto de equipamentos eletrônicos dotados de componentes físicos e recursos computacionais destinados ao processamento, armazenamento e comunicação de dados, mediante a execução de programas e instruções."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103797>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103799> ;
+    skos:prefLabel "Dispositivos Computacionais"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103800>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103850>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103851>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103799> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103795> ;
+    skos:definition "Dispositivo computacional portátil destinado ao processamento de dados, à execução de aplicações e à comunicação e ao acesso à informação, caracterizado pela possibilidade de utilização em diferentes locais e situações de mobilidade."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Dispositivo Móvel"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103797> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103800> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793> ;
+    skos:definition "Conjunto de recursos lógicos e computacionais destinados à definição e execução de operações de processamento de dados e informações, mediante instruções e procedimentos estruturados em sistemas computacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103801> ;
+    skos:prefLabel "Elementos de Processamento Computacional"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103850>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103851>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103859> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> ;
+    skos:definition "Serviço de computação em nuvem destinado ao armazenamento, gerenciamento e acesso remoto a dados e recursos informacionais em infraestruturas computacionais distribuídas, mediante conexão de rede."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103858> ;
+    skos:prefLabel "Armazenamento em Nuvem"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103867> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866> ;
+    skos:definition "Conjunto de componentes que integram o fluxo informacional, relacionados à entrada e à saída de dados e informações em processos de comunicação, processamento e intercâmbio entre sistemas ou ambientes informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103869>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103870> ;
+    skos:prefLabel "Elementos do Fluxo Informacional"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103884> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880> ;
+    skos:definition "Conjunto de fenômenos relacionados à constituição, variação e interpretação dos significados de palavras e expressões em diferentes contextos linguísticos e comunicativos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103885> ;
+    skos:prefLabel "Fenômenos Semânticos"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103885> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103884> ;
+    skos:definition "Conjunto de manifestações semânticas relacionadas à atribuição, multiplicidade ou indeterminação de significados de unidades linguísticas, considerando seus usos e contextos de interpretação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103886>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103887> ;
+    skos:prefLabel "Fenômenos de Significação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103895> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103891> ;
+    skos:definition "Conjunto de procedimentos sistemáticos de raciocínio que orientam a elaboração de inferências e conclusões a partir de premissas, observações ou evidências, segundo princípios lógicos, compreendendo abordagens dedutivas e indutivas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103896>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103897> ;
+    skos:prefLabel "Métodos de Raciocínio"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103899> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103900> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103892> ;
+    skos:definition "Processo de modelagem que consiste na delimitação, análise e representação sistemática de um domínio do conhecimento, mediante a identificação e estruturação de seus conceitos, entidades, características e relações relevantes, visando à explicitação de sua organização conceitual."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Modelagem de Domínio"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103907> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> ;
+    skos:definition "Conjunto de processos ou formas de reunião e organização de recursos informacionais em coleções, segundo critérios de seleção, finalidade ou pertencimento institucional."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103909> ;
+    skos:prefLabel "Agregação de Recursos"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103908> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103910> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103908> ;
+    skos:definition "Conjunto de dados destinados à descrição, identificação, caracterização e representação de recursos informacionais, possibilitando sua organização, localização e recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103912> ;
+    skos:prefLabel "Dados de Representação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103913> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103911> ;
+    skos:definition "Dados caracterizados pela ausência de um modelo ou esquema predefinido de organização, apresentados em diferentes formatos, como textos, imagens, áudios e vídeos, que podem exigir procedimentos específicos para seu processamento, análise e recuperação automatizada."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Dados Não Estruturados"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103638> a skos:Concept ;
+    skos:altLabel "Análise Conceitual"@pt,
+        "Análise Documentária"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637> ;
+    skos:definition "Etapa do processo de indexação que consiste na compreensão do conteúdo de um recurso informacional, na identificação dos conceitos nele presentes e na seleção daqueles considerados relevantes para sua representação temática."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103644>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103645>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103646> ;
+    skos:prefLabel "Análise de Assunto"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103640>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103750> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103718> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714> ;
+    skos:definition "Elemento constitutivo de uma ontologia que representa uma propriedade ou característica atribuída a uma classe ou instância, permitindo descrever e diferenciar as entidades de determinado domínio."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Atributo"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103723> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103715> ;
+    skos:definition "Componente de um sistema de classificação bibliográfica constituído por uma estrutura sistemática e hierarquizada de classes e subclasses, organizadas segundo princípios de divisão e características comuns, destinada à representação e à ordenação dos assuntos de um domínio do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Esquema de Classificação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103731> a skos:Concept ;
+    skos:altLabel "Relacionamentos semânticos"@pt,
+        "Relações entre termos"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730> ;
+    skos:definition "Vínculos estabelecidos entre conceitos ou entre suas denominações, com base em relações de significado, utilizados na estruturação de Sistemas de Organização do Conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103732>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103733> ;
+    skos:prefLabel "Relações Semânticas"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103739>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103749> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103738> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103739> ;
+    skos:definition "Forma de coordenação de conceitos ou termos em linguagens de organização e representação do conhecimento que consiste em sua combinação prévia, formando expressões compostas para representar assuntos antes do momento da recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Pré-Coordenação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103739> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730> ;
+    skos:definition "Procedimentos de estruturação semântica que consistem na combinação de conceitos ou termos em linguagens de organização e representação do conhecimento, diferenciados pelo momento em que ocorre essa combinação para a representação e a recuperação de assuntos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103737>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103738> ;
+    skos:prefLabel "Forma de Coordenação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103741> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103740> ;
+    skos:definition "Sistemas organizados de conceitos, princípios e proposições que explicam fenômenos de determinado domínio e fornecem fundamentos para a análise, interpretação e desenvolvimento de conhecimentos e métodos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103742>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103743>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103744> ;
+    skos:prefLabel "Teorias"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103742> a skos:Concept ;
+    skos:altLabel "TAF"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103741> ;
+    skos:definition "Teoria de organização do conhecimento desenvolvida por Ranganathan, fundamentada no método analítico-sintético, que estabelece princípios para a decomposição de assuntos em facetas e conceitos constituintes, segundo características de divisão, e sua posterior combinação em estruturas classificatórias multidimensionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Teoria da Análise Facetada"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103899> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103749> a skos:Concept ;
+    skos:altLabel "Unidade de conhecimento"@pt,
+        "Unidade de pensamento"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103748> ;
+    skos:definition "Unidade de conhecimento constituída pela síntese de características identificadas a partir de enunciados verdadeiros sobre um referente, podendo ser designada por um termo e relacionada a outros conceitos em determinado domínio do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Conceito"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103750> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747> ;
+    skos:definition "Unidade de conhecimento constituída por um tema ou conjunto de conceitos que expressam o conteúdo de um documento ou domínio, podendo apresentar diferentes níveis de complexidade e composição."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103751>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103752> ;
+    skos:prefLabel "Assunto"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103748> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103751> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103750> ;
+    skos:definition "Classificação dos assuntos segundo suas características estruturais e formas de composição, distinguindo assuntos básicos, simples e compostos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103755>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103756> ;
+    skos:prefLabel "Tipologia do Assunto"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103759> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de tecnologias, padrões e mecanismos computacionais destinados à representação, identificação e interligação de conceitos, dados e recursos informacionais na Web, possibilitando sua estruturação, compartilhamento e interoperabilidade em ambientes digitais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103760>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103761>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103762> ;
+    skos:prefLabel "Tecnologias e Mecanismos de Representação na Web"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103768>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103860>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103760> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103759> ;
+    skos:definition "Conjunto de tecnologias, linguagens, modelos e padrões computacionais destinados à estruturação e representação de conceitos e suas relações na Web, permitindo a formalização, o compartilhamento e o processamento de estruturas conceituais em ambientes digitais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103656> ;
+    skos:prefLabel "Recursos de Representação na Web"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103767> a skos:Concept ;
+    skos:altLabel "Dados interligados"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103762> ;
+    skos:definition "Conjunto de princípios e boas práticas para a publicação e interligação de dados estruturados na Web, fundamentado na utilização de URIs, protocolos Web e padrões de representação que permitem estabelecer conexões entre recursos, favorecendo seu acesso, compartilhamento e processamento por pessoas e máquinas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Linked Data"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103770> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103769> ;
+    skos:definition "Capacidade de diferentes sistemas, aplicações ou componentes de trocar informações e utilizá-las de maneira integrada, mediante padrões e mecanismos que possibilitam a comunicação, a compatibilidade e a interpretação dos dados compartilhados."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103771>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103772> ;
+    skos:prefLabel "Interoperabilidade"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103797> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103795> ;
+    skos:definition "Dispositivo computacional eletrônico e programável destinado à execução de algoritmos e instruções, realizando operações de processamento, armazenamento e manipulação de dados e informações para a produção de resultados."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Computador"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103801> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103850> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793> ;
+    skos:definition "Ambiente digital constituído por recursos informacionais, serviços e aplicações interligados por meio de tecnologias e protocolos da Web, que possibilitam a publicação, navegação, interação, compartilhamento e recuperação de informações na Internet."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103854> ;
+    skos:prefLabel "Ambiente Web"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103851>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103863> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103649> ;
+    skos:definition "Processo de recuperação da informação que consiste na formulação e execução de consultas em sistemas de informação, mediante termos, expressões ou critérios de pesquisa, visando à localização de informações ou recursos informacionais que atendam às necessidades dos usuários."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Busca"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103892> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888> ;
+    skos:definition "Conjunto de procedimentos metodológicos destinados à construção de representações estruturadas de conceitos, entidades e relações, considerando as características e os limites de determinado domínio do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103899>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103900> ;
+    skos:prefLabel "Abordagens de Modelagem"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103893> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103893> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888> ;
+    skos:definition "Conjunto de representações resultantes de processos de modelagem, destinadas à explicitação e à comunicação de conceitos, entidades e relações de determinado domínio do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103901> ;
+    skos:prefLabel "Produtos da Modelagem"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103916> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103914> ;
+    skos:definition "Conjunto de instrumentos documentários destinados à organização, reunião e disponibilização de registros catalográficos, possibilitando a identificação, localização e recuperação de recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103919> ;
+    skos:prefLabel "Instrumentos da Catalogação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103917> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103914> ;
+    skos:definition "Conjunto de representações e elementos descritivos resultantes dos processos de catalogação, destinados à identificação, descrição e recuperação de recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103920>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103921> ;
+    skos:prefLabel "Produtos da Catalogação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103916> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103634> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Área da Organização e Representação do Conhecimento e da Informação dedicada à simbolização e à estruturação de conceitos e suas relações, mediante a elaboração de representações que expressam e organizam o conhecimento de um domínio."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Representação do Conhecimento"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103899> ;
+    skos:scopeNote """Estabelece com o termo "Sistema de Organização do Conhecimento" uma relação associativa de "Ação/Produto".
+Isto porque, segundo Lima (2020, p. 68), os Sistemas de Organização do Conhecimento (SOC) constituem produtos dos processos de representação do conhecimento, que estruturam conceitos e suas relações em determinado domínio. 
+Assim, temos:
+- Ação: Representação do Conhecimento — processo de estruturação e expressão de conceitos e relações.
+- Produto: Sistemas de Organização do Conhecimento — instrumentos resultantes desse processo, como tesauros, taxonomias, ontologias e sistemas de classificação."""@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103712> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655> ;
+    skos:definition "Instrumentos, sistemas e estruturas desenvolvidos para apoiar a organização, representação e recuperação da informação e do conhecimento, mediante recursos conceituais, documentários ou tecnológicos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103713>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103914> ;
+    skos:prefLabel "Artefatos de Organização, Representação e Recuperação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103740> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103713> a skos:Concept ;
+    skos:altLabel "Knowledge Organization Systems"@pt,
+        "SOC"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103712> ;
+    skos:definition "Instrumentos de organização e representação do conhecimento constituídos por estruturas conceituais que sistematizam conceitos e suas relações em determinado domínio, visando à organização, representação e recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103715>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103716>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717> ;
+    skos:prefLabel "Sistemas de Organização do Conhecimento"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103634>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103731>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103742>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103743>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103744>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103749>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103757>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103914> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103716> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103713> ;
+    skos:definition "Sistema de organização do conhecimento que estrutura conceitos de um domínio predominantemente por relações hierárquicas, segundo características de semelhança e diferença, visando à classificação, representação e navegação em recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103735> ;
+    skos:prefLabel "Taxonomia"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103738> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103740> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655> ;
+    skos:definition "Conjunto de princípios, conceitos e formulações teóricas que sustentam a compreensão e o desenvolvimento de métodos, processos e instrumentos de organização, representação e recuperação da informação e do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103741> ;
+    skos:prefLabel "Fundamentos Teóricos"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103744> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103741> ;
+    skos:definition "Conjunto de princípios e modelos teóricos destinados ao estudo dos conceitos, das denominações e de suas relações na comunicação especializada, considerando os processos de formação, representação, definição e utilização das unidades terminológicas em diferentes domínios do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103745>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103746> ;
+    skos:prefLabel "Teoria da Terminologia"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103742>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103899> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103851> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793> ;
+    skos:definition "Conjunto de recursos físicos, lógicos e tecnológicos destinados à interconexão de dispositivos e sistemas computacionais, mediante protocolos e mecanismos de comunicação que possibilitam a transmissão, o compartilhamento e o acesso a dados e informações em redes digitais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103853> ;
+    skos:prefLabel "Infraestrutura de Rede"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103854> a skos:Concept ;
+    skos:altLabel "WWW"@pt,
+        "World Wide Web"@pt ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103850> ;
+    skos:definition "Sistema de informação distribuído, baseado em hipertexto e hipermídia, que opera sobre a Internet, utilizando identificadores, protocolos e tecnologias padronizados para possibilitar a identificação, interligação, publicação, navegação e recuperação de documentos e recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103758>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103855>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103856> ;
+    skos:prefLabel "Web"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103913> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103908> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> ;
+    skos:definition "Representações registradas de fatos, entidades, atributos ou ocorrências, expressas por símbolos, valores ou sinais, passíveis de armazenamento, processamento, interpretação e utilização em sistemas informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103910>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103911> ;
+    skos:prefLabel "Dados"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103914> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103712> ;
+    skos:definition "Conjunto de instrumentos normativos, recursos documentários e produtos utilizados ou produzidos nos processos de catalogação, destinados à descrição, identificação, organização e recuperação de recursos informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103915>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103916>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103917> ;
+    skos:prefLabel "Artefatos da Catalogação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103715> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103713> ;
+    skos:definition "Sistema de organização do conhecimento que estrutura assuntos em classes e subclasses, segundo princípios de divisão e ordenação, utilizando esquemas e notações para representar, agrupar e organizar recursos informacionais, visando à sua localização e recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103722>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103723>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103724>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103725> ;
+    skos:prefLabel "Sistema de Classificação Bibliográfica"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103636>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103716>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103717>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103738>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103774> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103758> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103854> ;
+    skos:definition "Abordagem de desenvolvimento da Web fundamentada na representação estruturada e semanticamente explícita de dados e suas relações, mediante metadados, modelos conceituais e linguagens formais que favorecem o processamento automatizado, a integração, a interoperabilidade e a recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Web Semântica"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103757>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103767> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103774> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Processo de tratamento da informação que consiste na disposição sistemática de documentos, registros ou objetos informacionais segundo critérios previamente estabelecidos, visando a facilitar sua organização, localização e recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Ordenação"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793> ;
+    skos:definition "Conjunto de serviços computacionais disponibilizados por meio de redes digitais, destinados ao fornecimento de recursos de processamento, armazenamento e outras funcionalidades tecnológicas sob demanda, mediante infraestruturas computacionais compartilhadas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103859> ;
+    skos:prefLabel "Serviços de Computação em Nuvem"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103860> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de indivíduos, grupos ou entidades que participam dos processos de organização, representação, armazenamento, recuperação e utilização da informação e do conhecimento, desempenhando diferentes funções nos ambientes informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103861> ;
+    skos:prefLabel "Agentes"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103899> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103892> ;
+    skos:definition "Processo de modelagem que consiste na identificação, análise e organização de conceitos e suas relações, visando à construção de representações abstratas e estruturadas que expressem a configuração conceitual de determinado domínio do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:prefLabel "Modelagem Conceitual"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103900>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103901> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103905> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> ;
+    skos:definition "Unidade de informação registrada ou disponibilizada em diferentes formatos e suportes, físicos ou digitais, caracterizada por conteúdo identificável e passível de organização, representação, armazenamento e recuperação, destinada ao acesso, à consulta e à utilização por usuários ou sistemas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103906> ;
+    skos:prefLabel "Recurso Informacional"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103907>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103908> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103637> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633> ;
+    skos:definition "Processo de representação da informação que consiste na análise do assunto de recursos informacionais, na identificação e seleção dos conceitos relevantes e em sua tradução para termos de uma linguagem de indexação, visando à representação temática e à recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103638>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103640> ;
+    skos:prefLabel "Indexação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103905> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103655> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Campo de estudos da Ciência da Informação que compreende fundamentos teóricos, princípios, métodos, processos, sistemas e instrumentos relacionados à organização, representação, armazenamento e recuperação da informação e do conhecimento. Abrange a estruturação de conceitos e assuntos, o tratamento de recursos informacionais, os processos de organização e representação da informação e do conhecimento e os sistemas de organização do conhecimento, visando à organização, ao acesso, à utilização e à recuperação da informação e do conhecimento em diferentes ambientes informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103654>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103712>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103740> ;
+    skos:prefLabel "Organização, Representação e Recuperação da Informação e do Conhecimento"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103860>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103717> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103713> ;
+    skos:definition "Sistema de organização do conhecimento constituído por um vocabulário controlado e estruturado que representa conceitos de um domínio por meio de termos preferidos e não preferidos e de relações semânticas de equivalência, hierarquia e associação, visando à representação temática e à recuperação da informação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103727>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103729> ;
+    skos:prefLabel "Tesauro"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103714>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103716>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103737> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103866> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Processo de circulação e transferência de informações entre agentes, sistemas ou ambientes informacionais, compreendendo operações de entrada e saída de dados e informações, mediante mecanismos de comunicação, processamento e compartilhamento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103867> ;
+    skos:prefLabel "Fluxo Informacional"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103633> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Área da Organização e Representação do Conhecimento e da Informação dedicada à descrição dos atributos físicos e de conteúdo dos recursos informacionais, por meio de elementos descritivos que possibilitam sua identificação, organização, acesso e recuperação."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103635>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103636>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103637> ;
+    skos:prefLabel "Representação da Informação"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103634>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103774>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103905> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655> ;
+    skos:definition "Conjunto de processos e operações destinados à organização e representação da informação e do conhecimento, bem como ao armazenamento e à recuperação da informação, mediante métodos, técnicas e instrumentos que possibilitam sua estruturação, sistematização, acesso e utilização."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103631>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103632>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103633>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103634>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103648>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103649>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103730>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103774> ;
+    skos:prefLabel "Tratamento da Informação e do Conhecimento"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103654>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103712>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103740> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103714> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103713> ;
+    skos:definition "Sistema de organização do conhecimento que formaliza conceitos, classes, atributos, relações e axiomas de um domínio, mediante uma representação explícita e processável por máquina, visando à representação semântica do conhecimento e à interoperabilidade entre sistemas."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103718>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103719>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103720>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103721> ;
+    skos:prefLabel "Ontologia"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103758> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103730> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103653> ;
+    skos:definition "Processo de tratamento da informação e do conhecimento que consiste na organização sistemática de conceitos e suas relações, segundo características e significados, visando à construção de estruturas conceituais coerentes."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103731>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103739> ;
+    skos:prefLabel "Estruturação Semântica"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103747> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Âmbito de organização do conhecimento que compreende as unidades conceituais e os elementos constitutivos dos assuntos, considerando suas características, composição e relações na estruturação de domínios do conhecimento."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103748>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103750> ;
+    skos:prefLabel "Unidades Conceituais e Estrutura dos Assuntos"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103793> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de ambientes, dispositivos, serviços e recursos computacionais que possibilitam o processamento, armazenamento, comunicação e acesso à informação em sistemas e redes digitais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103795>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103800>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103850>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103851>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103852> ;
+    skos:prefLabel "Ambientes e Infraestrutura Computacional"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103860>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103880> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de elementos e fenômenos relacionados à linguagem e à significação, que influenciam a expressão, a interpretação e a representação de conceitos e informações em diferentes contextos comunicativos e informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103882>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103884> ;
+    skos:prefLabel "Aspectos Linguístico-semânticos"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> a skos:Concept ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103655>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103747>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103759>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103768>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103793>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103860>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103866>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103880>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103888>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> ;
+    skos:prefLabel "Tesauro da Organização e Representação da Informação e do Conhecimento"@pt ;
+    skos:topConceptOf <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103888> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de métodos, procedimentos e abordagens destinados à análise, identificação, estruturação e representação de conceitos e suas relações em determinado domínio do conhecimento, compreendendo processos de raciocínio, atividades de modelagem e seus produtos."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103891>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103892>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103893> ;
+    skos:prefLabel "Métodos e Procedimentos de Modelagem"@pt ;
+    skos:related <https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/c/103902> a skos:Concept ;
+    skos:broader <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:definition "Conjunto de recursos, coleções e dados que constituem objetos de organização, representação, armazenamento e recuperação da informação em diferentes ambientes informacionais."@pt ;
+    skos:inScheme <https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> ;
+    skos:narrower <https://www.ufrgs.br/tesauros/index.php/thesa/c/103905>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103907>,
+        <https://www.ufrgs.br/tesauros/index.php/thesa/c/103908> ;
+    skos:prefLabel "Entidades Informacionais"@pt .
+
+<https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820> a skos:ConceptScheme ;
+    skos:hasTopConcept <https://www.ufrgs.br/tesauros/index.php/thesa/c/103787> ;
+    skos:prefLabel "Tesauro da Organização e Representação da Informação e do Conhecimento"@pt .
+

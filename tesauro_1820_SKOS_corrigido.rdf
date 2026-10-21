@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103741"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Teoria da Terminologia</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de princípios e modelos teóricos destinados ao estudo dos conceitos, das denominações e de suas relações na comunicação especializada, considerando os processos de formação, representação, definição e utilização das unidades terminológicas em diferentes domínios do conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103745"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103746"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103742"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103719">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Axioma</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento constitutivo de uma ontologia que consiste em uma proposição formal expressa em linguagem lógica, utilizada para estabelecer restrições, condições ou relações entre entidades de um domínio, possibilitando a realização de inferências.s</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103718"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Sistemas de Organização do Conhecimento</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">SOC</skos:altLabel>
+    <skos:altLabel xml:lang="pt">Knowledge Organization Systems</skos:altLabel>
+    <skos:definition xml:lang="pt">Instrumentos de organização e representação do conhecimento constituídos por estruturas conceituais que sistematizam conceitos e suas relações em determinado domínio, visando à organização, representação e recuperação da informação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103743"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103742"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103757"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103731"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103749"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103772">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103770"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Interoperabilidade Sintática</skos:prefLabel>
+    <skos:definition xml:lang="pt">Modalidade de interoperabilidade que possibilita a troca de dados entre sistemas mediante formatos, linguagens e regras de codificação compartilhados, permitindo seu reconhecimento e processamento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103773"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103853">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Internet</skos:prefLabel>
+    <skos:definition xml:lang="pt">Infraestrutura global de comunicação constituída por redes de computadores interconectadas, que utilizam protocolos padronizados, especialmente a família TCP/IP, para possibilitar a transmissão de dados, a comunicação entre dispositivos e o acesso a serviços e recursos informacionais distribuídos.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103768">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Integração entre Sistemas e Dados</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de processos e mecanismos destinados à conexão, ao compartilhamento e à utilização coordenada de dados e informações entre diferentes sistemas, mediante recursos tecnológicos, padrões e mecanismos de interoperabilidade.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103769"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103741">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Teorias</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistemas organizados de conceitos, princípios e proposições que explicam fenômenos de determinado domínio e fornecem fundamentos para a análise, interpretação e desenvolvimento de conhecimentos e métodos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103742"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103743"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103762">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103759"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Recursos de Interligação de Dados</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de princípios, métodos e mecanismos destinados ao estabelecimento de conexões entre dados e recursos informacionais na Web, mediante identificadores e relações semanticamente estruturadas, favorecendo sua integração, compartilhamento e interoperabilidade.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103767"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103760"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103761"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Agentes</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de indivíduos, grupos ou entidades que participam dos processos de organização, representação, armazenamento, recuperação e utilização da informação e do conhecimento, desempenhando diferentes funções nos ambientes informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103861"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Representação da Informação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Área da Organização e Representação do Conhecimento e da Informação dedicada à descrição dos atributos físicos e de conteúdo dos recursos informacionais, por meio de elementos descritivos que possibilitam sua identificação, organização, acesso e recuperação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103635"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103636"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Entidades Informacionais</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de recursos, coleções e dados que constituem objetos de organização, representação, armazenamento e recuperação da informação em diferentes ambientes informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103907"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103727">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Termo Descritor</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Termo autorizado</skos:altLabel>
+    <skos:altLabel xml:lang="pt">Termo preferido</skos:altLabel>
+    <skos:definition xml:lang="pt">Componente de um tesauro constituído por um termo ou expressão preferencial, autorizado para representar um conceito de determinado domínio na indexação e na recuperação da informação, integrando uma estrutura de relações semânticas com outros termos.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Organização, Representação e Recuperação da Informação e do Conhecimento</skos:prefLabel>
+    <skos:definition xml:lang="pt">Campo de estudos da Ciência da Informação que compreende fundamentos teóricos, princípios, métodos, processos, sistemas e instrumentos relacionados à organização, representação, armazenamento e recuperação da informação e do conhecimento. Abrange a estruturação de conceitos e assuntos, o tratamento de recursos informacionais, os processos de organização e representação da informação e do conhecimento e os sistemas de organização do conhecimento, visando à organização, ao acesso, à utilização e à recuperação da informação e do conhecimento em diferentes ambientes informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103654"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103759">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tecnologias e Mecanismos de Representação na Web</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de tecnologias, padrões e mecanismos computacionais destinados à representação, identificação e interligação de conceitos, dados e recursos informacionais na Web, possibilitando sua estruturação, compartilhamento e interoperabilidade em ambientes digitais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103760"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103761"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103762"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103768"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103756">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103751"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Assunto Simples</skos:prefLabel>
+    <skos:definition xml:lang="pt">Assunto constituído por um único assunto básico, sem a combinação de isolados ou de outros assuntos básicos.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Aspectos Linguístico-semânticos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de elementos e fenômenos relacionados à linguagem e à significação, que influenciam a expressão, a interpretação e a representação de conceitos e informações em diferentes contextos comunicativos e informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103882"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103884"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ordenação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de tratamento da informação que consiste na disposição sistemática de documentos, registros ou objetos informacionais segundo critérios previamente estabelecidos, visando a facilitar sua organização, localização e recuperação.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103907">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Agregação de Recursos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de processos ou formas de reunião e organização de recursos informacionais em coleções, segundo critérios de seleção, finalidade ou pertencimento institucional.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103909"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103884">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Fenômenos Semânticos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de fenômenos relacionados à constituição, variação e interpretação dos significados de palavras e expressões em diferentes contextos linguísticos e comunicativos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103885"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Recurso Informacional</skos:prefLabel>
+    <skos:definition xml:lang="pt">Unidade de informação registrada ou disponibilizada em diferentes formatos e suportes, físicos ou digitais, caracterizada por conteúdo identificável e passível de organização, representação, armazenamento e recuperação, destinada ao acesso, à consulta e à utilização por usuários ou sistemas.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103906"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103907"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Estruturação Semântica</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de tratamento da informação e do conhecimento que consiste na organização sistemática de conceitos e suas relações, segundo características e significados, visando à construção de estruturas conceituais coerentes.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103731"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103652">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Sistema de Recuperação da Informação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema de recuperação destinado à busca, localização e obtenção de informações ou recursos informacionais, mediante mecanismos de organização, representação e indexação que possibilitam sua recuperação conforme as necessidades informacionais dos usuários.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103863"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103654"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tesauro</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema de organização do conhecimento constituído por um vocabulário controlado e estruturado que representa conceitos de um domínio por meio de termos preferidos e não preferidos e de relações semânticas de equivalência, hierarquia e associação, visando à representação temática e à recuperação da informação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103727"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103729"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103737"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103895">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103891"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Métodos de Raciocínio</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de procedimentos sistemáticos de raciocínio que orientam a elaboração de inferências e conclusões a partir de premissas, observações ou evidências, segundo princípios lógicos, compreendendo abordagens dedutivas e indutivas.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103896"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103897"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103917">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Produtos da Catalogação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de representações e elementos descritivos resultantes dos processos de catalogação, destinados à identificação, descrição e recuperação de recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103920"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103921"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103916"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103766">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103764"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">URN</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Uniform Resource Name</skos:altLabel>
+    <skos:definition xml:lang="pt">Tipo de URI que identifica um recurso por meio de um nome atribuído em um espaço de nomes, independentemente de sua localização ou do mecanismo utilizado para acessá-lo.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tesauro da Organização e Representação da Informação e do Conhecimento</skos:prefLabel>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103759"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103768"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <skos:topConceptOf rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Sistema de Classificação Bibliográfica</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema de organização do conhecimento que estrutura assuntos em classes e subclasses, segundo princípios de divisão e ordenação, utilizando esquemas e notações para representar, agrupar e organizar recursos informacionais, visando à sua localização e recuperação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103722"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103723"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103724"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103725"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103738"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103636"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103891">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Procedimentos de Raciocínio</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de procedimentos intelectuais fundamentados em princípios lógicos, utilizados na análise de informações e na formulação de inferências para a construção e organização do conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103895"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103892"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103745">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Teoria Geral da Terminologia</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">TGT</skos:altLabel>
+    <skos:definition xml:lang="pt">Abordagem teórica da Terminologia, desenvolvida por Eugen Wüster, de caráter predominantemente prescritivo e normalizador, que estabelece princípios para a identificação, definição e organização sistemática de conceitos e suas denominações em domínios especializados, privilegiando a univocidade e a padronização terminológica para assegurar a precisão da comunicação científica e técnica.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103746"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103632">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Organização da Informação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Área da Organização e Representação do Conhecimento e da Informação dedicada à estruturação e à representação de recursos informacionais, por meio da descrição de suas características físicas e de conteúdo, com a finalidade de possibilitar o acesso e a recuperação da informação.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103631"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103722">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Índice Alfabético</skos:prefLabel>
+    <skos:definition xml:lang="pt">Componente de um sistema de classificação bibliográfica constituído por uma lista de termos organizados alfabeticamente e vinculados às respectivas notações, destinado a facilitar a localização dos assuntos representados no esquema de classificação.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103723"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103867">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Elementos do Fluxo Informacional</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de componentes que integram o fluxo informacional, relacionados à entrada e à saída de dados e informações em processos de comunicação, processamento e intercâmbio entre sistemas ou ambientes informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103869"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103870"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103920">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103917"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ficha Catalográfica</skos:prefLabel>
+    <skos:definition xml:lang="pt">Produto da catalogação constituído por um registro bibliográfico estruturado segundo normas e padrões catalográficos, contendo elementos de descrição, identificação e pontos de acesso relativos a um recurso informacional, tradicionalmente apresentado em cartão padronizado de 12,5 × 7,5 cm e atualmente também disponibilizado em formato digital.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103921"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103724">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tabela Auxiliar</skos:prefLabel>
+    <skos:definition xml:lang="pt">Componente complementar de um sistema de classificação bibliográfica constituído por subdivisões e notações que podem ser combinadas com classes do esquema principal, permitindo representar aspectos adicionais dos assuntos, como lugar, tempo, língua e forma.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103723"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103722"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103646">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103638"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Seleção de Conceitos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Etapa da análise de assunto que consiste na escolha dos conceitos identificados considerados relevantes e representativos do conteúdo de um recurso informacional, conforme os objetivos da indexação e as necessidades de recuperação da informação.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Fluxo Informacional</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de circulação e transferência de informações entre agentes, sistemas ou ambientes informacionais, compreendendo operações de entrada e saída de dados e informações, mediante mecanismos de comunicação, processamento e compartilhamento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103867"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103910">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Dados de Representação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de dados destinados à descrição, identificação, caracterização e representação de recursos informacionais, possibilitando sua organização, localização e recuperação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103912"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103900">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103892"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Modelagem de Domínio</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de modelagem que consiste na delimitação, análise e representação sistemática de um domínio do conhecimento, mediante a identificação e estruturação de seus conceitos, entidades, características e relações relevantes, visando à explicitação de sua organização conceitual.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103731">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Relações Semânticas</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Relacionamentos semânticos</skos:altLabel>
+    <skos:altLabel xml:lang="pt">Relações entre termos</skos:altLabel>
+    <skos:definition xml:lang="pt">Vínculos estabelecidos entre conceitos ou entre suas denominações, com base em relações de significado, utilizados na estruturação de Sistemas de Organização do Conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103732"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103733"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103739"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103749"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103718">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Atributo</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento constitutivo de uma ontologia que representa uma propriedade ou característica atribuída a uma classe ou instância, permitindo descrever e diferenciar as entidades de determinado domínio.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103801">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103800"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Algoritmo</skos:prefLabel>
+    <skos:definition xml:lang="pt">Recurso lógico de processamento computacional constituído por uma sequência finita e ordenada de instruções ou procedimentos bem definidos, destinados à execução de operações, à resolução de problemas ou à realização de tarefas específicas, a partir de dados de entrada, visando à obtenção de resultados.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103723">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Esquema de Classificação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Componente de um sistema de classificação bibliográfica constituído por uma estrutura sistemática e hierarquizada de classes e subclasses, organizadas segundo princípios de divisão e características comuns, destinada à representação e à ordenação dos assuntos de um domínio do conhecimento.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103757">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103656"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Simple Knowledge Organization System</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">SKOS</skos:altLabel>
+    <skos:definition xml:lang="pt">Modelo de dados para a representação de Sistemas de Organização do Conhecimento na Web Semântica, que permite expressar conceitos, suas denominações e relações semânticas em esquemas conceituais identificados por URIs, favorecendo sua publicação, seu compartilhamento e sua interoperabilidade.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103767"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103886">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103885"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ambiguidade</skos:prefLabel>
+    <skos:definition xml:lang="pt">Fenômeno de significação caracterizado pela possibilidade de uma palavra, expressão ou enunciado admitir duas ou mais interpretações, em determinado contexto comunicativo.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103887"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103869">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103867"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Entrada</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento do fluxo informacional que consiste no recebimento ou na inserção de dados e informações em um sistema ou processo informacional, possibilitando seu processamento, armazenamento ou utilização.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103870"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103631">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Organização do Conhecimento</skos:prefLabel>
+    <skos:definition xml:lang="pt">Área da Organização e Representação do Conhecimento e da Informação dedicada à estruturação sistemática de domínios do conhecimento, mediante a identificação, a organização e o relacionamento de conceitos e classes de conceitos, com base em suas características e relações.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103749"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103900"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103915">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Instrumentos Normativos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de instrumentos que estabelecem princípios, regras e diretrizes destinados à padronização dos procedimentos de descrição e representação de recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103918"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103916"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103917"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103855">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Web 1.0</skos:prefLabel>
+    <skos:definition xml:lang="pt">Modelo de desenvolvimento da Web caracterizado pela publicação predominantemente unidirecional de conteúdos estáticos, com participação limitada dos usuários na produção e modificação das informações disponibilizadas.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103856"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103734">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Relação Hierárquica</skos:prefLabel>
+    <skos:definition xml:lang="pt">Tipo de relação semântica que estabelece vínculos de subordinação entre conceitos, fundamentados em relações de gênero–espécie ou todo–parte, permitindo sua organização em estruturas de maior e menor abrangência ou de constituição.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103733"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103919">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103916"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Catálogo</skos:prefLabel>
+    <skos:definition xml:lang="pt">Instrumento da catalogação constituído por um conjunto organizado de registros catalográficos que representam os recursos informacionais de um ou mais acervos, mediante descrições e pontos de acesso, possibilitando sua identificação, localização e recuperação pelos usuários.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Fundamentos Teóricos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de princípios, conceitos e formulações teóricas que sustentam a compreensão e o desenvolvimento de métodos, processos e instrumentos de organização, representação e recuperação da informação e do conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103741"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103749">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103748"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Conceito</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Unidade de conhecimento</skos:altLabel>
+    <skos:altLabel xml:lang="pt">Unidade de pensamento</skos:altLabel>
+    <skos:definition xml:lang="pt">Unidade de conhecimento constituída pela síntese de características identificadas a partir de enunciados verdadeiros sobre um referente, podendo ser designada por um termo e relacionada a outros conceitos em determinado domínio do conhecimento.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tratamento da Informação e do Conhecimento</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de processos e operações destinados à organização e representação da informação e do conhecimento, bem como ao armazenamento e à recuperação da informação, mediante métodos, técnicas e instrumentos que possibilitam sua estruturação, sistematização, acesso e utilização.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103632"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103631"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103649"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103648"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103654"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ambientes e Infraestrutura Computacional</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de ambientes, dispositivos, serviços e recursos computacionais que possibilitam o processamento, armazenamento, comunicação e acesso à informação em sistemas e redes digitais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103795"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103800"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103850"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103866"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103739">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Forma de Coordenação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Procedimentos de estruturação semântica que consistem na combinação de conceitos ou termos em linguagens de organização e representação do conhecimento, diferenciados pelo momento em que ocorre essa combinação para a representação e a recuperação de assuntos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103738"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103737"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103863">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103649"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Busca</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de recuperação da informação que consiste na formulação e execução de consultas em sistemas de informação, mediante termos, expressões ou critérios de pesquisa, visando à localização de informações ou recursos informacionais que atendam às necessidades dos usuários.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Web Semântica</skos:prefLabel>
+    <skos:definition xml:lang="pt">Abordagem de desenvolvimento da Web fundamentada na representação estruturada e semanticamente explícita de dados e suas relações, mediante metadados, modelos conceituais e linguagens formais que favorecem o processamento automatizado, a integração, a interoperabilidade e a recuperação da informação.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103757"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103767"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103743">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103741"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Teoria do Conceito</skos:prefLabel>
+    <skos:definition xml:lang="pt">Teoria da organização do conhecimento desenvolvida por Ingetraut Dahlberg que estabelece princípios para a análise e a estruturação de conceitos, mediante a identificação das características dos referentes e sua síntese em unidades do conhecimento, orientando a elaboração de definições e o estabelecimento de relações conceituais.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103742"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103765">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103764"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">URL</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Uniform Resource Locator</skos:altLabel>
+    <skos:definition xml:lang="pt">Tipo de URI que identifica um recurso por meio de sua localização e do mecanismo utilizado para acessá-lo, geralmente mediante um endereço associado a um protocolo de comunicação.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103752">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103750"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Elementos de Constituição do Assunto</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de elementos conceituais utilizados na formação e combinação de assuntos, permitindo sua decomposição e síntese em sistemas de classificação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103753"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103754"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103751"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Infraestrutura de Rede</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de recursos físicos, lógicos e tecnológicos destinados à interconexão de dispositivos e sistemas computacionais, mediante protocolos e mecanismos de comunicação que possibilitam a transmissão, o compartilhamento e o acesso a dados e informações em redes digitais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103853"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103770">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103769"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Interoperabilidade</skos:prefLabel>
+    <skos:definition xml:lang="pt">Capacidade de diferentes sistemas, aplicações ou componentes de trocar informações e utilizá-las de maneira integrada, mediante padrões e mecanismos que possibilitam a comunicação, a compatibilidade e a interpretação dos dados compartilhados.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103771"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103772"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103858">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Cloud Computing</skos:prefLabel>
+    <skos:definition xml:lang="pt">Modelo de computação fundamentado no fornecimento sob demanda de recursos computacionais compartilhados e configuráveis, como servidores, armazenamento, aplicações e serviços, acessíveis por meio de redes digitais, com provisionamento flexível e mínima necessidade de intervenção humana no gerenciamento dos recursos.</skos:definition>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103859"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103921">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103917"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ponto de Acesso Descritivo</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103732">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103731"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Relação Associativa</skos:prefLabel>
+    <skos:definition xml:lang="pt">Tipo de relação semântica que estabelece vínculos entre conceitos distintos semanticamente relacionados, sem que exista entre eles uma relação hierárquica, visando à explicitação de associações conceituais relevantes em determinado domínio.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103733"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103734"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103721">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Instância</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento constitutivo de uma ontologia que representa uma entidade individual pertencente a uma classe, caracterizada por propriedades e relações específicas no domínio representado.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103719"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103720"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103718"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ontologia</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema de organização do conhecimento que formaliza conceitos, classes, atributos, relações e axiomas de um domínio, mediante uma representação explícita e processável por máquina, visando à representação semântica do conhecimento e à interoperabilidade entre sistemas.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103718"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103719"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103720"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103721"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103636">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Classificação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de representação da informação que consiste na atribuição de classes ou notações a assuntos ou recursos informacionais, conforme critérios e relações estabelecidos por um sistema de classificação, visando à sua organização, ordenação e recuperação.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103774"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Unidades Conceituais e Estrutura dos Assuntos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Âmbito de organização do conhecimento que compreende as unidades conceituais e os elementos constitutivos dos assuntos, considerando suas características, composição e relações na estruturação de domínios do conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103750"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103748"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103892">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Abordagens de Modelagem</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de procedimentos metodológicos destinados à construção de representações estruturadas de conceitos, entidades e relações, considerando as características e os limites de determinado domínio do conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103900"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103870">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103867"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Saída</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento do fluxo informacional que consiste na disponibilização ou transmissão de dados e informações resultantes de um sistema ou processo informacional, possibilitando seu acesso, comunicação ou utilização.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103725">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103715"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Notação da Classificação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Componente de um sistema de classificação bibliográfica constituído por símbolos organizados segundo regras específicas, utilizados para representar classes, divisões e subdivisões do esquema de classificação, possibilitando a identificação e a ordenação dos assuntos.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103723"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103722"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103724"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103635">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Catalogação</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Representação Descritiva</skos:altLabel>
+    <skos:definition xml:lang="pt">Processo de representação da informação que consiste na descrição das características físicas e de conteúdo de recursos informacionais e no estabelecimento de pontos de acesso, conforme regras e padrões específicos, visando à sua identificação, individualização, localização e recuperação em catálogos.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103636"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103918"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103906"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103720">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Classe</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento constitutivo de uma ontologia que representa uma categoria de entidades que compartilham determinadas características, permitindo sua organização e classificação em uma estrutura conceitual.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103719"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103718"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103850"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Web</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">World Wide Web</skos:altLabel>
+    <skos:altLabel xml:lang="pt">WWW</skos:altLabel>
+    <skos:definition xml:lang="pt">Sistema de informação distribuído, baseado em hipertexto e hipermídia, que opera sobre a Internet, utilizando identificadores, protocolos e tecnologias padronizados para possibilitar a identificação, interligação, publicação, navegação e recuperação de documentos e recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103855"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103856"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103913"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103850">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Ambiente Web</skos:prefLabel>
+    <skos:definition xml:lang="pt">Ambiente digital constituído por recursos informacionais, serviços e aplicações interligados por meio de tecnologias e protocolos da Web, que possibilitam a publicação, navegação, interação, compartilhamento e recuperação de informações na Internet.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103909">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103907"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Acervo (Biblioteca)</skos:prefLabel>
+    <skos:definition xml:lang="pt">Agregação de recursos informacionais constituída por documentos e materiais bibliográficos, em diferentes formatos e suportes, reunidos, organizados e conservados por uma biblioteca, visando ao acesso, à consulta e à utilização da informação por seus usuários.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103800">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Elementos de Processamento Computacional</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de recursos lógicos e computacionais destinados à definição e execução de operações de processamento de dados e informações, mediante instruções e procedimentos estruturados em sistemas computacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103801"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103850"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103862">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103861"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Comunidade de Usuários</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de indivíduos que compartilham necessidades ou interesses informacionais e utilizam recursos, serviços ou sistemas de informação para buscar, acessar, recuperar e utilizar informações em determinado contexto.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103863"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103649">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Recuperação da Informação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de tratamento da informação que consiste na busca, localização e obtenção de informações ou recursos informacionais, por meio de Sistemas de Recuperação da Informação (SRI), visando ao atendimento das necessidades informacionais dos usuários.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103863"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103652"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103797"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103799"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103632"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103913"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103654">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Sistemas de Recuperação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistemas computacionais destinados à localização e obtenção de conteúdos ou recursos previamente armazenados, mediante mecanismos de busca e seleção, conforme critérios estabelecidos para sua recuperação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103652"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103638">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Análise de Assunto</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Análise Documentária</skos:altLabel>
+    <skos:altLabel xml:lang="pt">Análise Conceitual</skos:altLabel>
+    <skos:definition xml:lang="pt">Etapa do processo de indexação que consiste na compreensão do conteúdo de um recurso informacional, na identificação dos conceitos nele presentes e na seleção daqueles considerados relevantes para sua representação temática.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103644"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103645"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103646"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103640"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103750"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103733">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103731"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Relação de Equivalência</skos:prefLabel>
+    <skos:definition xml:lang="pt">Tipo de relação semântica que estabelece correspondência entre diferentes denominações de um mesmo conceito, distinguindo termos preferidos e não preferidos em vocabulários controlados.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103799">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103795"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Dispositivo Móvel</skos:prefLabel>
+    <skos:definition xml:lang="pt">Dispositivo computacional portátil destinado ao processamento de dados, à execução de aplicações e à comunicação e ao acesso à informação, caracterizado pela possibilidade de utilização em diferentes locais e situações de mobilidade.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103797"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103767">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103762"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Linked Data</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Dados interligados</skos:altLabel>
+    <skos:definition xml:lang="pt">Conjunto de princípios e boas práticas para a publicação e interligação de dados estruturados na Web, fundamentado na utilização de URIs, protocolos Web e padrões de representação que permitem estabelecer conexões entre recursos, favorecendo seu acesso, compartilhamento e processamento por pessoas e máquinas.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103748">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Unidades Conceituais</skos:prefLabel>
+    <skos:definition xml:lang="pt">Unidades de conhecimento constituídas pela síntese estruturada de características atribuídas a referentes, permitindo sua identificação, delimitação e representação em determinado domínio.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103749"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103655"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Artefatos de Organização, Representação e Recuperação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Instrumentos, sistemas e estruturas desenvolvidos para apoiar a organização, representação e recuperação da informação e do conhecimento, mediante recursos conceituais, documentários ou tecnológicos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103740"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103859">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Armazenamento em Nuvem</skos:prefLabel>
+    <skos:definition xml:lang="pt">Serviço de computação em nuvem destinado ao armazenamento, gerenciamento e acesso remoto a dados e recursos informacionais em infraestruturas computacionais distribuídas, mediante conexão de rede.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103858"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103640">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tradução</skos:prefLabel>
+    <skos:definition xml:lang="pt">Etapa do processo de indexação que consiste na conversão dos conceitos selecionados durante a análise de assunto em termos ou notações de uma linguagem de indexação, visando à representação temática padronizada do recurso informacional.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103737">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Pós-Coordenação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Forma de coordenação de conceitos ou termos em linguagens de organização e representação do conhecimento que consiste em sua combinação no momento da busca e recuperação da informação, permitindo representar assuntos compostos a partir de termos previamente atribuídos de maneira independente.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103738"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103634">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Representação do Conhecimento</skos:prefLabel>
+    <skos:definition xml:lang="pt">Área da Organização e Representação do Conhecimento e da Informação dedicada à simbolização e à estruturação de conceitos e suas relações, mediante a elaboração de representações que expressam e organizam o conhecimento de um domínio.</skos:definition>
+    <skos:scopeNote xml:lang="pt">Estabelece com o termo "Sistema de Organização do Conhecimento" uma relação associativa de "Ação/Produto".
+Isto porque, segundo Lima (2020, p. 68), os Sistemas de Organização do Conhecimento (SOC) constituem produtos dos processos de representação do conhecimento, que estruturam conceitos e suas relações em determinado domínio. 
+Assim, temos:
+- Ação: Representação do Conhecimento — processo de estruturação e expressão de conceitos e relações.
+- Produto: Sistemas de Organização do Conhecimento — instrumentos resultantes desse processo, como tesauros, taxonomias, ontologias e sistemas de classificação.</skos:scopeNote>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103764">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103761"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">URI</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Uniform Resource Identifier</skos:altLabel>
+    <skos:definition xml:lang="pt">Identificador padronizado constituído por uma sequência de caracteres destinada à identificação de recursos físicos ou abstratos, por meio de mecanismos de identificação que incluem URLs e URNs.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103765"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103766"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103767"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103760">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103759"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Recursos de Representação na Web</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de tecnologias, linguagens, modelos e padrões computacionais destinados à estruturação e representação de conceitos e suas relações na Web, permitindo a formalização, o compartilhamento e o processamento de estruturas conceituais em ambientes digitais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103883">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103882"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Linguagem Natural</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema de comunicação linguística desenvolvido e utilizado socialmente por comunidades humanas, constituído por palavras, expressões e regras gramaticais e semânticas que possibilitam a produção e a interpretação de significados. Linguagem utilizada nos documentos, caracterizada pela riqueza, variedade e particularidades decorrentes das diferentes culturas, disciplinas de origem e estilos dos autores; também denominada linguagem dos autores.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103797">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103795"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Computador</skos:prefLabel>
+    <skos:definition xml:lang="pt">Dispositivo computacional eletrônico e programável destinado à execução de algoritmos e instruções, realizando operações de processamento, armazenamento e manipulação de dados e informações para a produção de resultados.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103738">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Pré-Coordenação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Forma de coordenação de conceitos ou termos em linguagens de organização e representação do conhecimento que consiste em sua combinação prévia, formando expressões compostas para representar assuntos antes do momento da recuperação da informação.</skos:definition>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103739"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103645">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103638"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Identificação de Conceitos</skos:prefLabel>
+    <skos:definition xml:lang="pt">Etapa da análise de assunto que consiste no reconhecimento dos conceitos expressos no conteúdo de um recurso informacional, a partir de sua compreensão, visando à determinação dos assuntos nele abordados.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103646"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103713"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Taxonomia</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema de organização do conhecimento que estrutura conceitos de um domínio predominantemente por relações hierárquicas, segundo características de semelhança e diferença, visando à classificação, representação e navegação em recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103735"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103714"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103738"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103911">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Dados segundo Estruturação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Agrupamento de dados segundo o grau de organização formal de suas estruturas, considerando a existência ou ausência de esquemas e padrões previamente definidos para seu armazenamento e processamento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103913"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103910"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103897">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103895"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Método Indutivo</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Bottom-up</skos:altLabel>
+    <skos:definition xml:lang="pt">Método de raciocínio aplicado à organização do conhecimento que parte da observação e análise de casos particulares, objetos ou expressões da linguagem especializada para identificar características comuns, agrupar conceitos e estabelecer classes mais abrangentes em uma estrutura conceitual.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103735">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103716"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Rótulo</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento de uma taxonomia constituído por um termo ou expressão verbal utilizado para designar e identificar um conceito ou categoria em sua estrutura hierárquica, possibilitando seu reconhecimento e sua utilização na navegação e no acesso aos recursos informacionais.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103908">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Dados</skos:prefLabel>
+    <skos:definition xml:lang="pt">Representações registradas de fatos, entidades, atributos ou ocorrências, expressas por símbolos, valores ou sinais, passíveis de armazenamento, processamento, interpretação e utilização em sistemas informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103910"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103911"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103754">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103752"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Isolado</skos:prefLabel>
+    <skos:definition xml:lang="pt">Elemento conceitual que representa uma característica ou manifestação de uma faceta, não constituindo, isoladamente, um assunto, mas podendo ser combinado com um assunto básico ou outros isolados para a formação de assuntos específicos.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103753"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103656">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tecnologias de Representação do Conhecimento</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de recursos tecnológicos, linguagens e padrões computacionais destinados à estruturação e representação formal de conceitos e suas relações, possibilitando a organização, o processamento, o compartilhamento e a interoperabilidade do conhecimento em ambientes digitais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103757"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103770"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103760"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103769">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103768"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Modalidades de Integração</skos:prefLabel>
+    <skos:definition xml:lang="pt">Formas de integração entre sistemas e dados, diferenciadas segundo os mecanismos e as condições que possibilitam sua comunicação, compatibilidade e compartilhamento de informações.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103770"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103712"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Artefatos da Catalogação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de instrumentos normativos, recursos documentários e produtos utilizados ou produzidos nos processos de catalogação, destinados à descrição, identificação, organização e recuperação de recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103915"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103916"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103917"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103893">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Produtos da Modelagem</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de representações resultantes de processos de modelagem, destinadas à explicitação e à comunicação de conceitos, entidades e relações de determinado domínio do conhecimento.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103901"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103887">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103885"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Polissemia</skos:prefLabel>
+    <skos:definition xml:lang="pt">Fenômeno de significação caracterizado pela existência de dois ou mais sentidos relacionados associados a uma mesma unidade lexical.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103648">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Armazenamento da informação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de tratamento da informação que consiste no registro, guarda e manutenção de recursos informacionais em diferentes suportes, sistemas e ambientes tecnológicos, visando à sua disponibilidade, acesso e posterior recuperação.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103649"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103730"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103797"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103799"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103859"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103632"/>
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103653"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103912">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103910"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Metadado</skos:prefLabel>
+    <skos:definition xml:lang="pt">Dado de representação que descreve, identifica ou contextualiza atributos e características de um recurso informacional, podendo constituir um ponto de acesso e apoiar sua organização, gestão, localização e recuperação.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103892"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Modelagem Conceitual</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de modelagem que consiste na identificação, análise e organização de conceitos e suas relações, visando à construção de representações abstratas e estruturadas que expressem a configuração conceitual de determinado domínio do conhecimento.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103901"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103900"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103773">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103772"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Interoperabilidade Semântica</skos:prefLabel>
+    <skos:definition xml:lang="pt">Modalidade de interoperabilidade que, apoiada na compatibilidade sintática dos dados, possibilita a interpretação consistente de seus significados entre diferentes sistemas, mediante modelos conceituais, vocabulários controlados e relações semânticas formalizadas.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103901">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103893"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Mapa Conceitual</skos:prefLabel>
+    <skos:definition xml:lang="pt">Representação gráfica do conhecimento resultante de processos de modelagem conceitual, constituída por conceitos interligados por palavras ou expressões de ligação que formam proposições, explicitando as relações conceituais e a estrutura de determinado domínio do conhecimento.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Serviços de Computação em Nuvem</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de serviços computacionais disponibilizados por meio de redes digitais, destinados ao fornecimento de recursos de processamento, armazenamento e outras funcionalidades tecnológicas sob demanda, mediante infraestruturas computacionais compartilhadas.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103859"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103795">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103793"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Dispositivos Computacionais</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de equipamentos eletrônicos dotados de componentes físicos e recursos computacionais destinados ao processamento, armazenamento e comunicação de dados, mediante a execução de programas e instruções.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103797"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103799"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103800"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103851"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103850"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103852"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103888">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Métodos e Procedimentos de Modelagem</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de métodos, procedimentos e abordagens destinados à análise, identificação, estruturação e representação de conceitos e suas relações em determinado domínio do conhecimento, compreendendo processos de raciocínio, atividades de modelagem e seus produtos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103891"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103892"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103893"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103902"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103637">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103633"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Indexação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Processo de representação da informação que consiste na análise do assunto de recursos informacionais, na identificação e seleção dos conceitos relevantes e em sua tradução para termos de uma linguagem de indexação, visando à representação temática e à recuperação da informação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103638"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103640"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103882">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103880"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Linguagem</skos:prefLabel>
+    <skos:definition xml:lang="pt">Sistema estruturado de signos e regras de combinação utilizado para expressar, representar e comunicar ideias, conceitos e informações em diferentes contextos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103883"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103884"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103771">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103770"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Interoperabilidade Estrutural</skos:prefLabel>
+    <skos:definition xml:lang="pt">Modalidade de interoperabilidade que possibilita a troca e a organização de dados entre sistemas mediante estruturas e modelos de informação compatíveis, preservando sua disposição e organização durante o intercâmbio.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103772"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103644">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103638"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Compreensão do Conteúdo</skos:prefLabel>
+    <skos:definition xml:lang="pt">Etapa da análise de assunto que consiste na apreensão e interpretação do conteúdo de um recurso informacional em sua totalidade, visando ao entendimento de seus assuntos e significados.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103645"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103646"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103755">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103751"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Assunto Composto</skos:prefLabel>
+    <skos:definition xml:lang="pt">Assunto constituído pela combinação de um assunto básico com um ou mais isolados, formando uma unidade temática mais específica.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103916">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103914"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Instrumentos da Catalogação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de instrumentos documentários destinados à organização, reunião e disponibilização de registros catalográficos, possibilitando a identificação, localização e recuperação de recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103919"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103885">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103884"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Fenômenos de Significação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de manifestações semânticas relacionadas à atribuição, multiplicidade ou indeterminação de significados de unidades linguísticas, considerando seus usos e contextos de interpretação.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103886"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103887"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103761">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103759"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Recursos de Identificação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de mecanismos e padrões destinados à identificação de recursos na Web, mediante identificadores padronizados que permitem sua referência, localização ou designação de maneira uniforme em ambientes digitais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103764"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103760"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103742">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103741"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Teoria da Análise Facetada</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">TAF</skos:altLabel>
+    <skos:definition xml:lang="pt">Teoria de organização do conhecimento desenvolvida por Ranganathan, fundamentada no método analítico-sintético, que estabelece princípios para a decomposição de assuntos em facetas e conceitos constituintes, segundo características de divisão, e sua posterior combinação em estruturas classificatórias multidimensionais.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103899"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103896">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103895"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Método Dedutivo</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Top-down</skos:altLabel>
+    <skos:definition xml:lang="pt">Método de raciocínio aplicado à organização do conhecimento que parte de categorias ou conceitos gerais para a identificação e estruturação de conceitos mais específicos, mediante divisões sucessivas que estabelecem classes e subclasses em uma estrutura hierárquica.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103897"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103856">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103854"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Web 2.0</skos:prefLabel>
+    <skos:definition xml:lang="pt">Modelo de desenvolvimento da Web caracterizado pela interação, colaboração e participação ativa dos usuários na produção, modificação, organização e compartilhamento de conteúdos e metadados, mediante plataformas e serviços digitais dinâmicos.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103758"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103913">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103911"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Dados Não Estruturados</skos:prefLabel>
+    <skos:definition xml:lang="pt">Dados caracterizados pela ausência de um modelo ou esquema predefinido de organização, apresentados em diferentes formatos, como textos, imagens, áudios e vídeos, que podem exigir procedimentos específicos para seu processamento, análise e recuperação automatizada.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103906">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103905"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Item Bibliográfico</skos:prefLabel>
+    <skos:definition xml:lang="pt">Recurso informacional que constitui uma unidade individual de uma coleção ou acervo bibliográfico, em suporte físico ou digital, passível de identificação, descrição, organização e recuperação, compreendendo exemplares de livros, periódicos e outros materiais documentais.</skos:definition>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103919"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103912"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103909"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103861">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103860"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Agentes dos Processos Informacionais</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de indivíduos ou grupos que participam dos processos de produção, organização, representação, recuperação e utilização da informação, desempenhando funções relacionadas à criação, ao tratamento, ao acesso e ao uso de recursos informacionais.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103862"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <skos:prefLabel xml:lang="pt">Tesauro da Organização e Representação da Informação e do Conhecimento</skos:prefLabel>
+    <skos:hasTopConcept rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103787"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103751">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103750"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Tipologia do Assunto</skos:prefLabel>
+    <skos:definition xml:lang="pt">Classificação dos assuntos segundo suas características estruturais e formas de composição, distinguindo assuntos básicos, simples e compostos.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103755"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103756"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103729">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103717"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Termo Não-descritor</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">Termo não-autorizado</skos:altLabel>
+    <skos:altLabel xml:lang="pt">Termo não-preferido</skos:altLabel>
+    <skos:definition xml:lang="pt">Componente de um tesauro constituído por uma denominação alternativa de um conceito, não autorizada para uso na indexação, mas registrada como ponto de acesso que, mediante relação de equivalência, remete ao descritor adotado para sua representação.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103746">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103744"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Teoria Comunicativa da Terminologia</skos:prefLabel>
+    <skos:altLabel xml:lang="pt">TCT</skos:altLabel>
+    <skos:definition xml:lang="pt">Abordagem teórica da Terminologia, desenvolvida por Maria Teresa Cabré, de caráter descritivo e sociocomunicativo, que analisa as unidades terminológicas em contextos reais de comunicação especializada, considerando suas dimensões linguística, cognitiva e comunicativa e reconhecendo fenômenos de variação terminológica, sinonímia e polissemia.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103750">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103747"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Assunto</skos:prefLabel>
+    <skos:definition xml:lang="pt">Unidade de conhecimento constituída por um tema ou conjunto de conceitos que expressam o conteúdo de um documento ou domínio, podendo apresentar diferentes níveis de complexidade e composição.</skos:definition>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103751"/>
+    <skos:narrower rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103752"/>
+    <skos:related rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103748"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103753">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103752"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Assunto Básico</skos:prefLabel>
+    <skos:definition xml:lang="pt">Conjunto de elementos conceituais utilizados na formação e combinação de assuntos, permitindo sua decomposição e síntese em sistemas de classificação.</skos:definition>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://www.ufrgs.br/tesauros/index.php/thesa/c/103918">
+    <skos:broader rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/c/103915"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <skos:inScheme rdf:resource="https://www.ufrgs.br/tesauros/index.php/thesa/terms/1820"/>
+    <skos:prefLabel xml:lang="pt">Código de Catalogação</skos:prefLabel>
+    <skos:definition xml:lang="pt">Instrumento normativo constituído por um conjunto sistematizado de princípios, regras e diretrizes que orientam a descrição e a representação de recursos informacionais e de suas relações bibliográficas, visando à padronização e à consistência dos registros catalográficos.</skos:definition>
+  </rdf:Description>
+</rdf:RDF>
